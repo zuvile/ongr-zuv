@@ -27,6 +27,9 @@ class AppKernel extends Kernel
             new ONGR\ContentBundle\ONGRContentBundle(),
             new ONGR\PagerBundle\ONGRPagerBundle(),
             new Crunch\Bundle\SSIBundle\CrunchSSIBundle(),
+            //mine
+            new KTU\ForestBundle\ForestBundle(),
+
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

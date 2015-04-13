@@ -1,0 +1,3 @@
+services:
+    forest.data.import:
+        class: KTU\ForestBundle\Service\ImportService
