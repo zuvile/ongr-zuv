@@ -30,6 +30,6 @@ class ImportService
 
     public function execute()
     {
-        var_dump($this->file);
+        $this->file;
     }
 }

@@ -17,7 +17,7 @@ class AppKernel extends Kernel
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
 
-            new ONGR\DemoBundle\ONGRDemoBundle(),
+//            new ONGR\DemoBundle\ONGRDemoBundle(),
 
             //Third party
             new ONGR\ElasticsearchBundle\ONGRElasticsearchBundle(),

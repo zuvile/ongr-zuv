@@ -91,28 +91,19 @@ swiftmailer:
 ongr_content:
     es:
         repositories:
-            product: es.manager.default.product
-            content: es.manager.default.content
-            category: es.manager.default.category
+            product: es.manager.default.lot
+            content: es.manager.default.lot
+            category: es.manager.default.lot
 
-ongr_router:
-    es_manager: default
-    seo_routes:
-        product:
-            _route: ongr_product
-            _controller: ONGRDemoBundle:Product:document
-            _default_route: ongr_product
-            _id_param: document
-        category:
-            _route: ongr_category
-            _default_route: ongr_category
-            _id_param: document
-            _controller: ONGRDemoBundle:Category:document
-        content:
-            _route: ongr_content
-            _default_route: ongr_content
-            _id_param: document
-            _controller: ONGRDemoBundle:Content:document
+#ongr_router:
+#    es_manager: default
+#    seo_routes:
+#        lot:
+#            _route: ongr_lot
+#            _controller: KTUBundle:Lot:document
+#            _default_route: ongr_lot
+#            _id_param: document
+
 
 ongr_elasticsearch:
     connections:
@@ -163,39 +154,16 @@ ongr_elasticsearch:
         default:
             connection: default
             mappings:
-                - ONGRDemoBundle
+                - KTUForestBundle
 
 ongr_filter_manager:
     managers:
         product_list:
             filters:
-                - category
-                - country
-                - wine_style
-                - wine_color
-                - search
                 - pager
                 - sorting
-            repository: 'product'
+            repository: 'lot'
     filters:
-        choice:
-            country:
-                request_field: 'country'
-                field: origin.country
-            wine_style:
-                request_field: 'wine_style'
-                field: wine_style
-            wine_color:
-                request_field: 'wine_color'
-                field: wine_colour
-        match:
-            search:
-                request_field: 'q'
-                field: title
-        document_field:
-            category:
-                request_field: 'document'
-                field: category_id
         pager:
             pager:
                 request_field: 'page'
