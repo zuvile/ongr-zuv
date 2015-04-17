@@ -2,9 +2,11 @@
 
 namespace KTU\ForestBundle\Service;
 
+use KTU\ForestBundle\Document\Lot;
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class ImportService
+class ImportService extends Controller
 {
     /** @var  string */
     private $file;
@@ -30,6 +32,11 @@ class ImportService
 
     public function execute()
     {
-        $this->file;
+//        $this->file;
+        $lot = new Lot();
+        $lot->setAge(5);
+        $manager = $this->get("es.manager");
+        $manager->persist($lot);
+        $manager->commit($lot);
     }
 }

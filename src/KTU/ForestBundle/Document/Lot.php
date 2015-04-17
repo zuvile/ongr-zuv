@@ -38,14 +38,14 @@ class Lot implements DocumentInterface
     /**
      * @var  float
      *
-     * @ES\Property(name="territory", type="string")
+     * @ES\Property(name="territory", type="float")
      */
     private $territory;
 
     /**
      * @var  float
      *
-     * @ES\Property(name="lushness", type="string")
+     * @ES\Property(name="lushness", type="float")
      */
     private $lushness;
 
@@ -80,21 +80,21 @@ class Lot implements DocumentInterface
     /**
      * @var  float
      *
-     * @ES\Property(name="ratio", type="string")
+     * @ES\Property(name="ratio", type="float")
      */
     private $ratio;
 
     /**
-     * @var  int
+     * @var  integer
      *
-     * @ES\Property(name="age", type="string")
+     * @ES\Property(name="age", type="integer")
      */
     private $age;
 
     /**
      * @var  float
      *
-     * @ES\Property(name="height", type="string")
+     * @ES\Property(name="height", type="float")
      */
     private $height;
 
