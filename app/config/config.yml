@@ -110,46 +110,12 @@ ongr_elasticsearch:
         default:
             hosts:
                 - { host: 127.0.0.1:9200 }
-            index_name: ongr
+            index_name: zuv
             settings:
                 number_of_shards: 2
                 number_of_replicas: 0
                 index:
                     refresh_interval: -1
-                analysis:
-                    tokenizer:
-                        pathTokenizer:
-                            type : path_hierarchy
-                            buffer_size: 2024
-                            skip: 0
-                            delimiter: /
-                    filter:
-                        incremental_filter:
-                            type: edge_ngram
-                            min_gram: 1
-                            max_gram: 20
-                    analyzer:
-                        indexAnalyzer:
-                            type: snowball
-                            language: German2
-                            stopwords: "der,die,das,mit,und,für"
-                        searchAnalyzer:
-                            type: snowball
-                            language: German2
-                            stopwords: "der,die,das,mit,und,für"
-                        pathAnalyzer:
-                            type: custom
-                            tokenizer: pathTokenizer
-                        urlAnalyzer:
-                            type: custom
-                            tokenizer: keyword
-                            filter: [lowercase]
-                        incrementalAnalyzer:
-                            type: custom
-                            tokenizer: standard
-                            filter:
-                                - lowercase
-                                - incremental_filter
     managers:
         default:
             connection: default
@@ -158,7 +124,7 @@ ongr_elasticsearch:
 
 ongr_filter_manager:
     managers:
-        product_list:
+        default:
             filters:
                 - pager
                 - sorting

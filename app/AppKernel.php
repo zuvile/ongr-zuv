@@ -28,7 +28,7 @@ class AppKernel extends Kernel
             new ONGR\PagerBundle\ONGRPagerBundle(),
             new Crunch\Bundle\SSIBundle\CrunchSSIBundle(),
             //mine
-            new KTU\ForestBundle\ForestBundle(),
+            new KTU\ForestBundle\KTUForestBundle(),
 
         );
 

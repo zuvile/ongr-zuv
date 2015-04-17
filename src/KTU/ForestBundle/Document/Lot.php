@@ -1,16 +1,17 @@
 <?php
 
-namespace KTU\ForestBundle\Model;
+namespace KTU\ForestBundle\Document;
 
 use ONGR\ElasticsearchBundle\Document\DocumentInterface;
 use ONGR\ElasticsearchBundle\Document\DocumentTrait;
+use ONGR\ElasticsearchBundle\Annotation as ES;
 
 /**
  * Stores forestry data.
  *
  * @ES\Document(type="lot")
  */
-class LotModel implements DocumentInterface
+class Lot implements DocumentInterface
 {
     use DocumentTrait;
 
@@ -100,7 +101,7 @@ class LotModel implements DocumentInterface
     /**
      * @var  float
      *
-     * @ES\Property(name="diameter", type="string")
+     * @ES\Property(name="diameter", type="float")
      */
     private $diameter;
 
