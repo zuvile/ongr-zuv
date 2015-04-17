@@ -3,11 +3,20 @@
 namespace KTU\ForestBundle\Service;
 
 use KTU\ForestBundle\Document\Lot;
-use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class ImportService extends Controller
+class ImportService
 {
+    /** @var   */
+    private $manager;
+
+    /**
+     * @param mixed $manager
+     */
+    public function setManager($manager)
+    {
+        $this->manager = $manager;
+    }
     /** @var  string */
     private $file;
 
@@ -32,11 +41,38 @@ class ImportService extends Controller
 
     public function execute()
     {
-//        $this->file;
+        $xml = simplexml_load_file($this->file);
+
+        foreach ($xml->row as $row)
+        {
+            $lot = $this->loadLot($row);
+            $this->writeToDB($lot);
+        }
+    }
+
+    private function loadLot($row)
+    {
         $lot = new Lot();
-        $lot->setAge(5);
-        $manager = $this->get("es.manager");
-        $manager->persist($lot);
-        $manager->commit($lot);
+        $lot->setId((string)$row->id);
+        $lot->setMunicipality((string)$row->savivaldybe);
+        $lot->setLushness((float)$row->skalsumas);
+        $lot->setLayer((string)$row->ardas);
+        $lot->setDepartment((string)$row->uredija);
+        $lot->setDiameter((float)$row->diametras);
+        $lot->setForestry((string)$row->girininkija);
+        $lot->setHeight((float)$row->aukstis);
+        $lot->setAge((int)$row->amzius);
+        $lot->setSpecies((string)$row->medzio_rusis);
+        $lot->setTerritory((float)$row->plotas);
+        $lot->setRatio((float)$row->sudeties_koeficientas);
+        $lot->setFrom((string)$row->nuo);
+        return $lot;
+
+    }
+
+    private function writeToDB($lot)
+    {
+        $this->manager->persist($lot);
+        $this->manager->commit($lot);
     }
 }

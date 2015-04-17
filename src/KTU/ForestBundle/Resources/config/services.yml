@@ -1,3 +1,5 @@
 services:
     forest.data.import:
         class: KTU\ForestBundle\Service\ImportService
+        calls:
+           - [setManager, [@es.manager]]
