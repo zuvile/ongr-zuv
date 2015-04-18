@@ -5,27 +5,24 @@ namespace KTU\ForestBundle\Service;
 use Elasticsearch\Common\Exceptions\Missing404Exception;
 use KTU\ForestBundle\Document\Layer;
 use KTU\ForestBundle\Document\Lot;
+use ONGR\ElasticsearchBundle\ORM\Manager;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class ImportService
 {
-    /** @var */
+    /** @var Manager */
     private $manager;
 
-    /**
-     * @param mixed $manager
-     */
-    public function setManager($manager)
+    /** @var string */
+    private $file;
+
+    /** @var OutputInterface */
+    private $output;
+
+    public function __construct(Manager $manager)
     {
         $this->manager = $manager;
     }
-
-    /** @var  string */
-    private $file;
-
-    /** @var  OutputInterface */
-    private $output;
-
     /**
      * @param string $file
      */
@@ -49,11 +46,12 @@ class ImportService
         foreach ($xml->row as $row) {
             if (!$this->lotExists($row)) {
                 $lot = $this->loadLot($row);
-                $this->writeToDB($lot);
+                $this->manager->persist($lot);
             } else {
                 $this->lotUpdate($row);
             }
         }
+        $this->manager->commit();
     }
 
     private function loadLot($row)
@@ -72,13 +70,6 @@ class ImportService
         $lot->getLayers()->addLayer($layer);
 
         return $lot;
-
-    }
-
-    private function writeToDB($lot)
-    {
-        $this->manager->persist($lot);
-        $this->manager->commit($lot);
     }
 
     private function formLayer($row)
@@ -97,10 +88,8 @@ class ImportService
     private function lotExists($row)
     {
         $exists = false;
-        $manager = $this->manager;
-        $repository = $manager->getRepository('KTUForestBundle:Lot');
         try {
-            $repository->find($row->id);
+            $this->manager->getRepository('KTUForestBundle:Lot')->find($row->id);
             $exists = true;
         } catch (Missing404Exception $e) {
 
@@ -109,14 +98,13 @@ class ImportService
         return $exists;
     }
 
-    private function lotUpdate($row)
+    private function lotUpdate($row) 
     {
         $repository = $this->manager->getRepository('KTUForestBundle:Lot');
+        /** @var Lot $document */
         $document = $repository->find($row->id);
-
-        $document->department("Ziviles");
+        $document->setDepartment("Ziviles");
 
         $this->manager->persist($document);
-        $this->manager->commit();
     }
 }

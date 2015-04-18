@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1e63f9c4e52d9ee979ae9d0ca4be9309",
+    "hash": "07c592a7d1f25879109b6d2faeeca8cd",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1267,16 +1267,16 @@
         },
         {
             "name": "ongr/filter-manager-bundle",
-            "version": "v0.4.2",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ongr-io/FilterManagerBundle.git",
-                "reference": "974dd223034aa29633968f49bdb94224f745423e"
+                "reference": "0bb1cd11883e3c3b99232c94f901a99a94291ced"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ongr-io/FilterManagerBundle/zipball/974dd223034aa29633968f49bdb94224f745423e",
-                "reference": "974dd223034aa29633968f49bdb94224f745423e",
+                "url": "https://api.github.com/repos/ongr-io/FilterManagerBundle/zipball/0bb1cd11883e3c3b99232c94f901a99a94291ced",
+                "reference": "0bb1cd11883e3c3b99232c94f901a99a94291ced",
                 "shasum": ""
             },
             "require": {
@@ -1302,12 +1302,12 @@
             "authors": [
                 {
                     "name": "ONGR team",
-                    "homepage": "http://www.nfq.com"
+                    "homepage": "http://www.ongr.io"
                 }
             ],
             "description": "Filter manager bundle for product lists",
             "homepage": "http://ongr.io",
-            "time": "2015-03-03 14:44:40"
+            "time": "2015-04-10 09:53:57"
         },
         {
             "name": "ongr/pager-bundle",
@@ -3066,6 +3066,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
+        "ongr/filter-manager-bundle": 20,
         "ongr/pager-bundle": 20,
         "ongr/router-bundle": 20
     },

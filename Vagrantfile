@@ -13,8 +13,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.provider :virtualbox do |v|
     v.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
-    v.customize ["modifyvm", :id, "--memory", 1024]
-    v.customize ["setextradata", :id, "--VBoxInternal2/SharedFoldersEnableSymlinksCreate/v-root", "1"]
+    v.customize ["modifyvm", :id, "--memory", 2048]
   end
 
   config.vm.synced_folder "./", "/var/www", type: "nfs"
@@ -27,7 +26,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.ssh.shell = "bash -l"
   config.ssh.keep_alive = true
-  config.ssh.forward_agent = false
   config.ssh.forward_x11 = false
   config.vagrant.host = :detect
 end

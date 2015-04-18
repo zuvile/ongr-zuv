@@ -20,7 +20,7 @@
         "incenteev/composer-parameter-handler": "~2.0",
 
         "ongr/elasticsearch-bundle": "~0.8",
-        "ongr/filter-manager-bundle": "~0.1",
+        "ongr/filter-manager-bundle": "dev-master",
         "ongr/content-bundle": "~0.1",
         "ongr/pager-bundle": "dev-master",
         "ongr/router-bundle": "dev-master",
