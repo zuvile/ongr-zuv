@@ -1,8 +1,13 @@
 <?php
 
-namespace KTU\ForestBundle\Model;
+namespace KTU\ForestBundle\Document;
+use ONGR\ElasticsearchBundle\Annotation as ES;
 
-
+/**
+ * Product location data.
+ *
+ * @ES\Object()
+ */
 class Layers implements \JsonSerializable
 {
     private $layers = [];

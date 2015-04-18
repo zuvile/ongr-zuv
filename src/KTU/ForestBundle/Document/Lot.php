@@ -2,7 +2,6 @@
 
 namespace KTU\ForestBundle\Document;
 
-use KTU\ForestBundle\Model\Layers;
 use ONGR\ElasticsearchBundle\Document\DocumentInterface;
 use ONGR\ElasticsearchBundle\Document\DocumentTrait;
 use ONGR\ElasticsearchBundle\Annotation as ES;
@@ -201,12 +200,6 @@ class Lot implements DocumentInterface
     {
         $this->layers = $layers;
     }
-
-//    public function assign($data)
-//    {
-//        $this->layers = $this->
-//
-//    }
 
     public function dump()
     {

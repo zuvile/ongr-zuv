@@ -1,9 +1,13 @@
 <?php
 
-namespace KTU\ForestBundle\Model;
+namespace KTU\ForestBundle\Document;
+use ONGR\ElasticsearchBundle\Annotation as ES;
+use ONGR\ElasticsearchBundle\Document\DocumentInterface;
+use ONGR\ElasticsearchBundle\Document\DocumentTrait;
 
-class Layer {
-
+class Layer implements DocumentInterface
+{
+    use DocumentTrait;
     /**
      * @var  string
      *
@@ -141,12 +145,6 @@ class Layer {
     {
         $this->diameter = $diameter;
     }
-
-    /**
-     * @return string
-     */
-
-
     /**
      * @return array|mixed
      */

@@ -2,8 +2,9 @@
 
 namespace KTU\ForestBundle\Service;
 
+use Elasticsearch\Common\Exceptions\Missing404Exception;
+use KTU\ForestBundle\Document\Layer;
 use KTU\ForestBundle\Document\Lot;
-use KTU\ForestBundle\Model\Layer;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class ImportService
@@ -46,8 +47,12 @@ class ImportService
         $xml = simplexml_load_file($this->file);
 
         foreach ($xml->row as $row) {
-            $lot = $this->loadLot($row);
-            $this->writeToDB($lot);
+            if (!$this->lotExists($row)) {
+                $lot = $this->loadLot($row);
+                $this->writeToDB($lot);
+            } else {
+                $this->lotUpdate($row);
+            }
         }
     }
 
@@ -87,5 +92,30 @@ class ImportService
         $layer->setDiameter((float)$row->diametras);
 
         return $layer;
+    }
+
+    private function lotExists($row)
+    {
+        $exists = false;
+        $manager = $this->manager;
+        $repository = $manager->getRepository('KTUForestBundle:Lot');
+        try {
+            $repository->find($row->id);
+            $exists = true;
+        } catch (Missing404Exception $e) {
+
+        }
+
+        return $exists;
+    }
+
+    private function lotUpdate($row) {
+        $repository = $this->manager->getRepository('KTUForestBundle:Lot');
+        $document = $repository->find($row->id);
+
+        $document->department = "Ziviles";
+
+        $this->manager->persist($document);
+        $this->manager->commit();
     }
 }
