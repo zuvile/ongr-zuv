@@ -109,11 +109,12 @@ class ImportService
         return $exists;
     }
 
-    private function lotUpdate($row) {
+    private function lotUpdate($row)
+    {
         $repository = $this->manager->getRepository('KTUForestBundle:Lot');
         $document = $repository->find($row->id);
 
-        $document->department = "Ziviles";
+        $document->department("Ziviles");
 
         $this->manager->persist($document);
         $this->manager->commit();

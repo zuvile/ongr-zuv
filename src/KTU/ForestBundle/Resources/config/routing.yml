@@ -1,0 +1,4 @@
+#Content controller
+zuv_demo_homepage:
+    path:     /
+    defaults: { _controller: KTUForestBundle:Content:homePage }

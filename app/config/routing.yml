@@ -1,5 +1,5 @@
 ongr_demo:
-    resource: "@ONGRDemoBundle/Resources/config/routing.yml"
+    resource: "@KTUForestBundle/Resources/config/routing.yml"
     prefix:   /
 
 #fos_js_routing:
