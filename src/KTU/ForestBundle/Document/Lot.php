@@ -2,6 +2,7 @@
 
 namespace KTU\ForestBundle\Document;
 
+use KTU\ForestBundle\Model\Layers;
 use ONGR\ElasticsearchBundle\Document\DocumentInterface;
 use ONGR\ElasticsearchBundle\Document\DocumentTrait;
 use ONGR\ElasticsearchBundle\Annotation as ES;
@@ -64,46 +65,11 @@ class Lot implements DocumentInterface
     private $to;
 
     /**
-     * @var  string
+     * @var  Layers
      *
-     * @ES\Property(name="layer", type="string")
+     * @ES\Property(name="layers", type="object")
      */
-    private $layer;
-
-    /**
-     * @var  string
-     *
-     * @ES\Property(name="species", type="string")
-     */
-    private $species;
-
-    /**
-     * @var  float
-     *
-     * @ES\Property(name="ratio", type="float")
-     */
-    private $ratio;
-
-    /**
-     * @var  integer
-     *
-     * @ES\Property(name="age", type="integer")
-     */
-    private $age;
-
-    /**
-     * @var  float
-     *
-     * @ES\Property(name="height", type="float")
-     */
-    private $height;
-
-    /**
-     * @var  float
-     *
-     * @ES\Property(name="diameter", type="float")
-     */
-    private $diameter;
+    private $layers;
 
     /**
      * @return string
@@ -218,98 +184,38 @@ class Lot implements DocumentInterface
     }
 
     /**
-     * @return string
+     * @return Layers
      */
-    public function getLayer()
+    public function getLayers()
     {
-        return $this->layer;
+        if ($this->layers == null) {
+            $this->layers = new Layers();
+        }
+        return $this->layers;
     }
 
     /**
-     * @param string $layer
+     * @param Layers $layers
      */
-    public function setLayer($layer)
+    public function setLayers($layers)
     {
-        $this->layer = $layer;
+        $this->layers = $layers;
     }
 
-    /**
-     * @return string
-     */
-    public function getSpecies()
-    {
-        return $this->species;
-    }
+//    public function assign($data)
+//    {
+//        $this->layers = $this->
+//
+//    }
 
-    /**
-     * @param string $species
-     */
-    public function setSpecies($species)
+    public function dump()
     {
-        $this->species = $species;
-    }
+        $data = null;
+        if (!is_null($this->layers))
+        {
+            $data['layers'] = $this->layers->jsonSerialize();
+        }
 
-    /**
-     * @return float
-     */
-    public function getRatio()
-    {
-        return $this->ratio;
-    }
-
-    /**
-     * @param float $ratio
-     */
-    public function setRatio($ratio)
-    {
-        $this->ratio = $ratio;
-    }
-
-    /**
-     * @return int
-     */
-    public function getAge()
-    {
-        return $this->age;
-    }
-
-    /**
-     * @param int $age
-     */
-    public function setAge($age)
-    {
-        $this->age = $age;
-    }
-
-    /**
-     * @return float
-     */
-    public function getDiameter()
-    {
-        return $this->diameter;
-    }
-
-    /**
-     * @param float $diameter
-     */
-    public function setDiameter($diameter)
-    {
-        $this->diameter = $diameter;
-    }
-
-    /**
-     * @return float
-     */
-    public function getHeight()
-    {
-        return $this->height;
-    }
-
-    /**
-     * @param float $height
-     */
-    public function setHeight($height)
-    {
-        $this->height = $height;
+        return $data;
     }
 }
