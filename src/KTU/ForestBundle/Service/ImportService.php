@@ -67,7 +67,7 @@ class ImportService
 
         $layer = $this->formLayer($row);
 
-        $lot->getLayers()->addLayer($layer);
+        $lot->addLayer($layer);
 
         return $lot;
     }
@@ -103,7 +103,8 @@ class ImportService
         $repository = $this->manager->getRepository('KTUForestBundle:Lot');
         /** @var Lot $document */
         $document = $repository->find($row->id);
-        $document->setDepartment("Ziviles");
+        $layer = new Layer();
+        $document->addLayer($layer);
 
         $this->manager->persist($document);
     }

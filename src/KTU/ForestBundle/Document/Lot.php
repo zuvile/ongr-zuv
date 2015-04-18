@@ -66,9 +66,9 @@ class Lot implements DocumentInterface
     /**
      * @var  Layers
      *
-     * @ES\Property(name="layers", type="object")
+     * @ES\Property(name="layers", type="object", multiple=true, objectName="KTUForestBundle:Layer")
      */
-    private $layers;
+    private $layers = [];
 
     /**
      * @return string
@@ -210,5 +210,25 @@ class Lot implements DocumentInterface
         }
 
         return $data;
+    }
+
+    public function addLayer(Layer $layer)
+    {
+        $this->layers[] = $layer;
+    }
+
+    /**
+     * @return array|mixed
+     */
+    public function jsonSerialize()
+    {
+        return [
+            'layer' => $this->layer,
+            'ratio' => $this->ratio,
+            'species' => $this->species,
+            'age' => $this->age,
+            'height' => $this->height,
+            'diameter' => $this->diameter
+        ];
     }
 }
