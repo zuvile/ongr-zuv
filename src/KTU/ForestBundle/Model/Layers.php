@@ -7,10 +7,6 @@ class Layers implements \JsonSerializable
 {
     private $layers = [];
 
-    public function __construct($data = []) {
-
-    }
-
     /**
      * @return array
      */
