@@ -23,6 +23,7 @@ class ImportService
     {
         $this->manager = $manager;
     }
+
     /**
      * @param string $file
      */
@@ -98,7 +99,7 @@ class ImportService
         return $exists;
     }
 
-    private function lotUpdate($row) 
+    private function lotUpdate($row)
     {
         $repository = $this->manager->getRepository('KTUForestBundle:Lot');
         /** @var Lot $document */
@@ -106,8 +107,24 @@ class ImportService
         //TODO: if layer is same don't add it
         $layer = $this->formLayer($row);
 
-        $document->addLayer($layer);
+//        if ($this->layerExists($document, $layer)) {
+            $document->addLayer($layer);
 
-        $this->manager->persist($document);
+            $this->manager->persist($document);
+//        }
     }
+//
+//    private function layerExists(Lot $document, $layer)
+//    {
+//        $exists = false;
+//        $layers = $document->getLayers();
+//
+//        foreach ($layers as $existingLayer) {
+//            if ($layer === $existingLayer) {
+//                $exists = true;
+//                break;
+//            }
+//        }
+//        return $exists;
+//    }
 }
