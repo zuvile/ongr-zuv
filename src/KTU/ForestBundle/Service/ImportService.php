@@ -103,7 +103,9 @@ class ImportService
         $repository = $this->manager->getRepository('KTUForestBundle:Lot');
         /** @var Lot $document */
         $document = $repository->find($row->id);
-        $layer = new Layer();
+        //TODO: if layer is same don't add it
+        $layer = $this->formLayer($row);
+
         $document->addLayer($layer);
 
         $this->manager->persist($document);
