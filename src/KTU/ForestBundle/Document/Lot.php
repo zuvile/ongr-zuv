@@ -2,6 +2,7 @@
 
 namespace KTU\ForestBundle\Document;
 
+use Doctrine\Common\Collections\ArrayCollection;
 use ONGR\ElasticsearchBundle\Document\DocumentInterface;
 use ONGR\ElasticsearchBundle\Document\DocumentTrait;
 use ONGR\ElasticsearchBundle\Annotation as ES;
@@ -69,6 +70,15 @@ class Lot implements DocumentInterface
      * @ES\Property(name="layers", type="object", multiple=true, objectName="KTUForestBundle:Layer")
      */
     private $layers = [];
+
+    /**
+     * Lot constructor.
+     */
+    public function __construct()
+    {
+        $this->layers = [];
+    }
+
 
     /**
      * @return string
@@ -215,20 +225,5 @@ class Lot implements DocumentInterface
     public function addLayer(Layer $layer)
     {
         $this->layers[] = $layer;
-    }
-
-    /**
-     * @return array|mixed
-     */
-    public function jsonSerialize()
-    {
-        return [
-            'layer' => $this->layer,
-            'ratio' => $this->ratio,
-            'species' => $this->species,
-            'age' => $this->age,
-            'height' => $this->height,
-            'diameter' => $this->diameter
-        ];
     }
 }

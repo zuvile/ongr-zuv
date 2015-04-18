@@ -5,6 +5,11 @@ use ONGR\ElasticsearchBundle\Annotation as ES;
 use ONGR\ElasticsearchBundle\Document\DocumentInterface;
 use ONGR\ElasticsearchBundle\Document\DocumentTrait;
 
+/**
+ * Product location data.
+ *
+ * @ES\Object()
+ */
 class Layer implements DocumentInterface
 {
     use DocumentTrait;
