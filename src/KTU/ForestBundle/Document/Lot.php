@@ -211,7 +211,7 @@ class Lot implements DocumentInterface
     public function dump()
     {
         $data = null;
-        if (!is_null($this->layers))
+        if (!empty($this->layers))
         {
             $data['layers'] = $this->layers->jsonSerialize();
         }
@@ -221,6 +221,6 @@ class Lot implements DocumentInterface
 
     public function addLayer(Layer $layer)
     {
-        $this->layers[] = $layer;
+        $this->layers[] = clone $layer;
     }
 }
