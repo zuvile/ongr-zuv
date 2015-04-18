@@ -193,18 +193,15 @@ class Lot implements DocumentInterface
     }
 
     /**
-     * @return Layers
+     * @return array
      */
     public function getLayers()
     {
-        if ($this->layers == null) {
-            $this->layers = new Layers();
-        }
         return $this->layers;
     }
 
     /**
-     * @param Layers $layers
+     * @param array $layers
      */
     public function setLayers($layers)
     {

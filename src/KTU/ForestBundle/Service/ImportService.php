@@ -107,24 +107,24 @@ class ImportService
         //TODO: if layer is same don't add it
         $layer = $this->formLayer($row);
 
-//        if ($this->layerExists($document, $layer)) {
+        if (!$this->layerExists($document, $layer)) {
             $document->addLayer($layer);
 
             $this->manager->persist($document);
-//        }
+        }
     }
-//
-//    private function layerExists(Lot $document, $layer)
-//    {
-//        $exists = false;
-//        $layers = $document->getLayers();
-//
-//        foreach ($layers as $existingLayer) {
-//            if ($layer === $existingLayer) {
-//                $exists = true;
-//                break;
-//            }
-//        }
-//        return $exists;
-//    }
+
+    private function layerExists(Lot $document, $layer)
+    {
+        $exists = false;
+        $layers = $document->getLayers();
+
+        foreach ($layers as $existingLayer) {
+            if ($layer == $existingLayer) {
+                $exists = true;
+                break;
+            }
+        }
+        return $exists;
+    }
 }
