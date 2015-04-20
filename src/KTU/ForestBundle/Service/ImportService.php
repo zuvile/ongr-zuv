@@ -51,8 +51,8 @@ class ImportService
             } else {
                 $this->lotUpdate($row);
             }
+            $this->manager->commit();
         }
-        $this->manager->commit();
     }
 
     private function loadLot($row)
@@ -111,6 +111,7 @@ class ImportService
 
             $this->manager->persist($document);
         }
+
     }
 
     private function layerExists(Lot $document, $layer)

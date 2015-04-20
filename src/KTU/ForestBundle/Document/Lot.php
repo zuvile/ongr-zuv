@@ -65,7 +65,7 @@ class Lot implements DocumentInterface
     private $to;
 
     /**
-     * @var  Layers
+     * @var  array
      *
      * @ES\Property(name="layers", type="object", multiple=true, objectName="KTUForestBundle:Layer")
      */

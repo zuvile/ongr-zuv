@@ -10,9 +10,8 @@ use ONGR\ElasticsearchBundle\Document\DocumentTrait;
  *
  * @ES\Object()
  */
-class Layer implements DocumentInterface
+class Layer
 {
-    use DocumentTrait;
     /**
      * @var  string
      *
