@@ -2,3 +2,7 @@ services:
     forest.data.import:
         class: KTU\ForestBundle\Service\ImportService
         arguments: [@es.manager]
+
+    forest.data.collector:
+        class: KTU\ForestBundle\Service\DataCollectorService
+        arguments: [@es.manager]

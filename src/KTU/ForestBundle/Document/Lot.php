@@ -19,20 +19,20 @@ class Lot implements DocumentInterface
     /**
      * @var string
      *
-     * @ES\Property(name="department", type="string")
+     * @ES\Property(name="department", type="string", index="not_analyzed")
      */
     private $department; //uredija
 
     /**
      * @var  string
-     * @ES\Property(name="forestry", type="string")
+     * @ES\Property(name="forestry", type="string", index="not_analyzed")
      */
     private $forestry; //girininkija
 
     /**
      * @var  string
      *
-     * @ES\Property(name="municipality", type="string")
+     * @ES\Property(name="municipality", type="string", index="not_analyzed")
      */
     private $municipality; //savivaldybe
 
