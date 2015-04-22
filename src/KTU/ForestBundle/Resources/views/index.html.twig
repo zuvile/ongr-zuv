@@ -25,15 +25,14 @@
 
                         function drawMap() {
                             var data = google.visualization.arrayToDataTable([
-                                ['City', 'Ratio'],
-                                ['LT-AL', 0.8],
-                                ['LT-KU', 0.5],
-                                ['LT-KL', 0.3]
+                                ['City', 'Ratio', 'Label'],
+                                ['LT-AL', 0.8, 'Alytus'],
+                                ['LT-KU', 0.5, 'Kaunas'],
+                                ['LT-KL', 0.3, 'Klaipeda'],
                             ]);
 
                             var options = {};
                             options['region'] = 'LT';
-//                            options['colors'] = [0xFF8747, 0xFFB581, 0xc06000]; //orange colors
                             options['dataMode'] = 'regions';
                             options['resolution'] = 'provinces';
 
@@ -41,7 +40,6 @@
                             var geomap = new google.visualization.GeoMap(container);
                             geomap.draw(data, options);
                         }
-
                     </script>
                 <div id='map_canvas'></div>
             </div>
