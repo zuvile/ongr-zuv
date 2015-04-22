@@ -33,7 +33,7 @@ class DataCollectorService
 
         $documents = $repository->execute($search);
 
-        var_dump($documents->getAggregations()->find('municipality'));
+//        var_dump($documents->getAggregations()->find('municipality'));
     }
 
     public function calculateRatio($municipality, $treeType)
@@ -55,7 +55,7 @@ class DataCollectorService
 
         $documents = $repository->execute($search);
 
-        var_dump($documents->getAggregations());
+//        var_dump($documents->getAggregations());
 
     }
     public function collectMunicipalityData($municipality)
@@ -79,7 +79,7 @@ class DataCollectorService
 
         $documents = $repository->execute($search);
 
-        var_dump($documents->getAggregations()->find('forestry'));
+//        var_dump($documents->getAggregations()->find('forestry'));
     }
 
 

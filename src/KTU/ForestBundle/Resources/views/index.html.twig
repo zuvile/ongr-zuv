@@ -1,64 +1,56 @@
-<!DOCTYPE html>
-<html>
-<body>
-{% block search %}
-<div class="container">
-    <nav class="navbar navbar-default" role="navigation">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Full Screen Search</a>
-            </div>
+{% extends "KTUForestBundle::base.html.twig" %}
+{% block main %}
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Link</a></li>
-                    <li><a href="#">Link</a></li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">Action</a></li>
-                            <li><a href="#">Another action</a></li>
-                            <li><a href="#">Something else here</a></li>
-                            <li class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
-                            <li class="divider"></li>
-                            <li><a href="#">One more separated link</a></li>
-                        </ul>
-                    </li>
+    <div class = "container">
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">    <img src="http://www.martinforestry.com/images/Martin-Forestry-Tree-Icon.png" alt="Mountain View" style="width:30px;height:30px"> Medžių rūšis</a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Pušis</a></li>
+                    <li><a href="#">Drebulė</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#search">Search</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-    </nav>
-    <form class="navbar-form navbar-left" role="search">
-        <div class="form-group">
-            <input type="text" class="form-control" placeholder="Search">
+            </li>
+        </ul>
+        <br>
         </div>
-        <button type="submit" class="btn btn-default">Submit</button>
-    </form>
-</div>
-</body>
-</html>
-{% endblock %}
+        <div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">Žemėlapis</div>
+                    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+                    <script type='text/javascript'>
+                        google.load('visualization', '1', {'packages': ['geomap']});
+                        google.setOnLoadCallback(drawMap);
 
-{% block stylesheets %}
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" rel="stylesheet">
+                        function drawMap() {
+                            var data = google.visualization.arrayToDataTable([
+                                ['City', 'Ratio'],
+                                ['LT-AL', 0.8],
+                                ['LT-KU', 0.5],
+                                ['LT-KL', 0.3]
+                            ]);
+
+                            var options = {};
+                            options['region'] = 'LT';
+//                            options['colors'] = [0xFF8747, 0xFFB581, 0xc06000]; //orange colors
+                            options['dataMode'] = 'regions';
+                            options['resolution'] = 'provinces';
+
+                            var container = document.getElementById('map_canvas');
+                            var geomap = new google.visualization.GeoMap(container);
+                            geomap.draw(data, options);
+                        }
+
+                    </script>
+                <div id='map_canvas'></div>
+            </div>
+        </div>
+        <div class="col-md-4"><div class="panel panel-default">
+                <div class="panel-body">
+                    Savivaldybės info
+                </div>
+            </div></div>
+    </div>
+        </div>
 {% endblock %}
-{% block javascripts %}
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-{% endblock %}
-{% block html_closures %}{% endblock %}
