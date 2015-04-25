@@ -9,6 +9,7 @@ use ONGR\ElasticsearchBundle\DSL\Aggregation\TermsAggregation;
 use ONGR\ElasticsearchBundle\DSL\Query\Query;
 use ONGR\ElasticsearchBundle\DSL\Query\TermQuery;
 use ONGR\ElasticsearchBundle\ORM\Manager;
+use ONGR\ElasticsearchBundle\ORM\Repository;
 use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
 
 class DataCollectorService
@@ -31,9 +32,9 @@ class DataCollectorService
         $aggs->setField('municipality');
         $search->addAggregation($aggs);
 
-        $documents = $repository->execute($search);
+        $documents = $repository->execute($search, Repository::RESULTS_ARRAY);
 
-//        var_dump($documents->getAggregations()->find('municipality'));
+        return $documents->getAggregations()->find('municipality');
     }
 
     public function calculateRatio($municipality, $treeType)
@@ -53,9 +54,9 @@ class DataCollectorService
 
         $search->addAggregation($stats);
 
-        $documents = $repository->execute($search);
+        $documents = $repository->execute($search, Repository::RESULTS_ARRAY);
 
-//        var_dump($documents->getAggregations());
+        return $documents->getAggregations();
 
     }
     public function collectMunicipalityData($municipality)
@@ -77,10 +78,8 @@ class DataCollectorService
 
         $search->addAggregation($aggsForestry);
 
-        $documents = $repository->execute($search);
+        $documents = $repository->execute($search, Repository::RESULTS_ARRAY);
 
-//        var_dump($documents->getAggregations()->find('forestry'));
+        return $documents->getAggregations()->find('forestry');
     }
-
-
 }
