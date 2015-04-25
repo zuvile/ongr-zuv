@@ -16,6 +16,15 @@ class Lot implements DocumentInterface
 {
     use DocumentTrait;
 
+
+
+    /**
+     * @var string
+     *
+     * @ES\Property(name="province", type="string", index="not_analyzed")
+     */
+    private $province;
+
     /**
      * @var string
      *
@@ -206,6 +215,22 @@ class Lot implements DocumentInterface
     public function setLayers($layers)
     {
         $this->layers = $layers;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProvince()
+    {
+        return $this->province;
+    }
+
+    /**
+     * @param string $province
+     */
+    public function setProvince($province)
+    {
+        $this->province = $province;
     }
 
     public function dump()

@@ -59,6 +59,7 @@ class ImportService
     {
         $lot = new Lot();
         $lot->setId((string)$row->id);
+        $lot->setProvince((string)$row->apskritis);
         $lot->setMunicipality((string)$row->savivaldybe);
         $lot->setLushness((float)$row->skalsumas);
         $lot->setDepartment((string)$row->uredija);

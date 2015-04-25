@@ -3,6 +3,7 @@
 namespace KTU\ForestBundle\Controller;
 
 use KTU\ForestBundle\Service\DataCollectorService;
+use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
@@ -17,12 +18,15 @@ class ContentController extends Controller
     {
         /** @var DataCollectorService $service */
         $service = $this->get('forest.data.collector');
-        $service->collectMunicipalityData('Utenos r. sav.');
-        $service->collectMunicipalities();
+        //$service->collectMunicipalityData('Utenos r. sav.');
+        $provinceRatios = $service->getProvincesRatios('Pušis');
+
         return $this->render(
             'KTUForestBundle::index.html.twig',
-            []
+            ['provinceRatios' => $provinceRatios]
         );
     }
+
+
 
 }
