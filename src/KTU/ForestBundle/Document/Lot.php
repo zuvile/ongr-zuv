@@ -19,6 +19,13 @@ class Lot implements DocumentInterface
     /**
      * @var string
      *
+     * @ES\Property(name="province", type="string", index="not_analyzed")
+     */
+    private $province;
+
+    /**
+     * @var string
+     *
      * @ES\Property(name="department", type="string", index="not_analyzed")
      */
     private $department; //uredija
@@ -206,6 +213,22 @@ class Lot implements DocumentInterface
     public function setLayers($layers)
     {
         $this->layers = $layers;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProvince()
+    {
+        return $this->province;
+    }
+
+    /**
+     * @param string $province
+     */
+    public function setProvince($province)
+    {
+        $this->province = $province;
     }
 
     public function dump()

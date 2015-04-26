@@ -59,6 +59,7 @@ class ImportService
     {
         $lot = new Lot();
         $lot->setId((string)$row->id);
+        $lot->setProvince('Utenos apskritis');
         $lot->setMunicipality((string)$row->savivaldybe);
         $lot->setLushness((float)$row->skalsumas);
         $lot->setDepartment((string)$row->uredija);
@@ -77,7 +78,8 @@ class ImportService
     {
         $layer = new Layer();
         $layer->setLayer((string)$row->ardas);
-        $layer->setRatio((float)$row->sudeties_koeficientas);
+        $a = (string)$row->sudeties_koeficientas;
+        $layer->setRatio((floatval($a)));
         $layer->setSpecies((string)$row->medzio_rusis);
         $layer->setAge((int)$row->amzius);
         $layer->setHeight((float)$row->aukstis);

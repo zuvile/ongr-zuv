@@ -29,7 +29,7 @@ class Layer
     /**
      * @var  string
      *
-     * @ES\Property(name="species", type="string")
+     * @ES\Property(name="species", type="string", index="not_analyzed")
      */
     private $species;
 
