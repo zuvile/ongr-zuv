@@ -8,13 +8,26 @@ use ONGR\ElasticsearchBundle\DSL\Query\TermQuery;
 use ONGR\ElasticsearchBundle\ORM\Manager;
 use ONGR\ElasticsearchBundle\Result\Aggregation\AggregationIterator;
 use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
-use Symfony\Component\Yaml\Yaml;
 
 class DataCollectorService
 {
 
     /** @var Manager */
     private $manager;
+
+    /** @var  array */
+    private $provinces = [
+        'Kauno apskritis',
+        'Alytaus apskritis',
+        'Klaipėdos apskritis',
+        'Marijampolės apskritis',
+        'Panevėžio apskritis',
+        'Šiaulių apskritis',
+        'Tauragės apskritis',
+        'Telšių apskritis',
+        'Utenos apskritis',
+        'Vilniaus apskritis',
+    ];
 
     public function __construct(Manager $manager)
     {
@@ -60,11 +73,14 @@ class DataCollectorService
 
         $aggs = $documents->getAggregations();
 
-        foreach ($aggs as $agg) {
-            /** @var ValueAggregation $agg */
-            $stats = $agg->getValue();
+        if ($this->getLayerCount($province) != 0) {
+            foreach ($aggs as $agg) {
+                /** @var ValueAggregation $agg */
+                $stats = $agg->getValue();
 
-            $average = round($stats['sum'] / $this->getLayerCount($province), 4);
+                $average = round($stats['avg'], 4);
+            }
+
         }
 
         return $average;
@@ -92,8 +108,6 @@ class DataCollectorService
         $documents = $repository->execute($search);
         $aggs = $documents->getAggregations();
 
-        $array = $this->iterator_to_array_deep($aggs);
-
         return ['code' => 'LT-UT', 'some_field' => 'some_data'];
 //        var_dump($documents->getAggregations()->find('forestry'));
     }
@@ -101,17 +115,13 @@ class DataCollectorService
     public function getProvincesRatios($treeType)
     {
         $provincesRatios = [];
-        $provinces = $this->collectProvinces();
+        $provinces = $this->provinces;
 
-        foreach ($provinces as $province) {
+        foreach ($provinces as $provinceName) {
             /** @var ValueAggregation $province */
-            $provinceName = $province->getValue();
-            $ratio = $this->calculateRatio($provinceName['key'], $treeType);
+            $ratio = $this->calculateRatio($provinceName, $treeType);
 
             $ratioNormalised = $ratio === null ? 0 : $ratio;
-
-            $provinceName = str_replace(' ', '_', $provinceName['key']);
-
             $provincesRatios[$provinceName] = $ratioNormalised;
         }
         return $provincesRatios;
@@ -139,24 +149,4 @@ class DataCollectorService
 
         return $documents->count();
     }
-
-    private function iterator_to_array_deep(\Traversable $iterator, $use_keys = true)
-    {
-        $array = array();
-        foreach ($iterator as $key => $value) {
-
-            if ($value instanceof \Traversable) {
-                $value = $this->iterator_to_array_deep($value, $use_keys);
-            } else if ($value instanceof AggregationIterator) {
-                $value = $this->iterator_to_array_deep($value, $use_keys);
-            }
-            if ($use_keys) {
-                $array[$key] = $value;
-            } else {
-                $array[] = $value;
-            }
-        }
-        return $array;
-    }
-
 }

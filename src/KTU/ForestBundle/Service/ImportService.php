@@ -6,6 +6,7 @@ use Elasticsearch\Common\Exceptions\Missing404Exception;
 use KTU\ForestBundle\Document\Layer;
 use KTU\ForestBundle\Document\Lot;
 use ONGR\ElasticsearchBundle\ORM\Manager;
+use Symfony\Component\Console\Helper\ProgressBar;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Yaml\Yaml;
 
@@ -16,6 +17,27 @@ class ImportService
 
     /** @var string */
     private $file;
+
+    /**
+     * @return OutputInterface
+     */
+    public function getOutput()
+    {
+        return $this->output;
+    }
+
+    /**
+     * @param OutputInterface $output
+     */
+    public function setOutput($output)
+    {
+        $this->output = $output;
+    }
+
+    /**
+     * @var ProgressBar
+     */
+    private $progress;
 
     /** @var OutputInterface */
     private $output;
@@ -51,27 +73,28 @@ class ImportService
         $this->file = $file;
     }
 
-    /**
-     * @param OutputInterface $output
-     */
-    public function setOutput($output)
-    {
-        $this->output = $output;
-    }
 
     public function execute()
     {
-        $xml = simplexml_load_file($this->file);
+        $xmlReader = new \XMLReader();
+        $xmlReader->open($this->file);
 
-        foreach ($xml->row as $row) {
+        while ($xmlReader->read() && $xmlReader->name !== 'row') ;
+
+        while ($xmlReader->name === 'row') {
+            $row = new \SimpleXMLElement($xmlReader->readOuterXML());
+
             if (!$this->lotExists($row)) {
                 $lot = $this->loadLot($row);
                 $this->manager->persist($lot);
+                $this->advance($this->output);
             } else {
                 $this->lotUpdate($row);
+                $this->manager->commit();
+                $this->advance($this->output);
             }
-            $this->manager->commit();
         }
+
     }
 
     private function loadLot($row)
@@ -152,5 +175,19 @@ class ImportService
     {
         $provinceYml = Yaml::parse(file_get_contents($this->provinceMapFile));
         return $provinceYml;
+    }
+
+    /**
+     * @param OutputInterface $output
+     */
+    private function advance(OutputInterface $output)
+    {
+        if ($this->progress == null) {
+            $this->progress = new ProgressBar($output);
+            $output->writeln("");
+            $output->writeln("<info>Importing lot data</info>");
+            $this->progress->start();
+        }
+        $this->progress->advance();
     }
 }

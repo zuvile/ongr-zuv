@@ -17,10 +17,9 @@ class ContentController extends Controller
     {
         /** @var DataCollectorService $service */
         $service = $this->get('forest.data.collector');
-        //$service->collectMunicipalityData('Utenos r. sav.');
         $provinceRatios = $service->getProvincesRatios('Pušis');
 
-        $provinceInfo = $service->collectProvinceData('Utenos apskritis');
+        $provinceInfo = $service->collectProvinceData('Kauno apskritis');
 
         return $this->render(
             'KTUForestBundle::index.html.twig',
