@@ -7,6 +7,7 @@ use KTU\ForestBundle\Document\Layer;
 use KTU\ForestBundle\Document\Lot;
 use ONGR\ElasticsearchBundle\ORM\Manager;
 use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\Yaml\Yaml;
 
 class ImportService
 {
@@ -18,6 +19,24 @@ class ImportService
 
     /** @var OutputInterface */
     private $output;
+
+    private $provinceMapFile;
+
+    /**
+     * @return mixed
+     */
+    public function getProvinceMapFile()
+    {
+        return $this->provinceMapFile;
+    }
+
+    /**
+     * @param mixed $provinceMapFile
+     */
+    public function setProvinceMapFile($provinceMapFile)
+    {
+        $this->provinceMapFile = $provinceMapFile;
+    }
 
     public function __construct(Manager $manager)
     {
@@ -59,7 +78,7 @@ class ImportService
     {
         $lot = new Lot();
         $lot->setId((string)$row->id);
-        $lot->setProvince('Utenos apskritis');
+        $lot->setProvince($this->getProvinceMap()['provinces'][(string)$row->savivaldybe]);
         $lot->setMunicipality((string)$row->savivaldybe);
         $lot->setLushness((float)$row->skalsumas);
         $lot->setDepartment((string)$row->uredija);
@@ -78,8 +97,7 @@ class ImportService
     {
         $layer = new Layer();
         $layer->setLayer((string)$row->ardas);
-        $a = (string)$row->sudeties_koeficientas;
-        $layer->setRatio((floatval($a)));
+        $layer->setRatio((floatval($row->sudeties_koeficientas)));
         $layer->setSpecies((string)$row->medzio_rusis);
         $layer->setAge((int)$row->amzius);
         $layer->setHeight((float)$row->aukstis);
@@ -128,5 +146,11 @@ class ImportService
             }
         }
         return $exists;
+    }
+
+    private function getProvinceMap()
+    {
+        $provinceYml = Yaml::parse(file_get_contents($this->provinceMapFile));
+        return $provinceYml;
     }
 }

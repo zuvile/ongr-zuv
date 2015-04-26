@@ -1,7 +1,12 @@
+parameters:
+    provinces_map: src/KTU/ForestBundle/Resources/config/provinces.yml
+
 services:
     forest.data.import:
         class: KTU\ForestBundle\Service\ImportService
         arguments: [@es.manager]
+        calls:
+            - [setProvinceMapFile, [%provinces_map%]]
 
     forest.data.collector:
         class: KTU\ForestBundle\Service\DataCollectorService

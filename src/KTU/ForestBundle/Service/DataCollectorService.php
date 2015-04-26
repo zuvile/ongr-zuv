@@ -8,6 +8,7 @@ use ONGR\ElasticsearchBundle\DSL\Query\TermQuery;
 use ONGR\ElasticsearchBundle\ORM\Manager;
 use ONGR\ElasticsearchBundle\Result\Aggregation\AggregationIterator;
 use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
+use Symfony\Component\Yaml\Yaml;
 
 class DataCollectorService
 {
@@ -57,11 +58,9 @@ class DataCollectorService
         //TODO: account for regions without the tree type
 
 
-
         $aggs = $documents->getAggregations();
 
-        foreach ($aggs as $agg)
-        {
+        foreach ($aggs as $agg) {
             /** @var ValueAggregation $agg */
             $stats = $agg->getValue();
 
@@ -70,6 +69,7 @@ class DataCollectorService
 
         return $average;
     }
+
     public function collectProvinceData($province)
     {
         $manager = $this->manager;
@@ -94,7 +94,7 @@ class DataCollectorService
 
         $array = $this->iterator_to_array_deep($aggs);
 
-        return ['code'=>'LT-UT','some_field'=>'some_data'];
+        return ['code' => 'LT-UT', 'some_field' => 'some_data'];
 //        var_dump($documents->getAggregations()->find('forestry'));
     }
 
@@ -138,15 +138,16 @@ class DataCollectorService
 //        var_dump($documents->getAggregations());
 
         return $documents->count();
-}
+    }
 
-    private function iterator_to_array_deep(\Traversable $iterator, $use_keys = true) {
+    private function iterator_to_array_deep(\Traversable $iterator, $use_keys = true)
+    {
         $array = array();
         foreach ($iterator as $key => $value) {
 
             if ($value instanceof \Traversable) {
                 $value = $this->iterator_to_array_deep($value, $use_keys);
-            } else            if ($value instanceof AggregationIterator) {
+            } else if ($value instanceof AggregationIterator) {
                 $value = $this->iterator_to_array_deep($value, $use_keys);
             }
             if ($use_keys) {
@@ -157,4 +158,5 @@ class DataCollectorService
         }
         return $array;
     }
+
 }
