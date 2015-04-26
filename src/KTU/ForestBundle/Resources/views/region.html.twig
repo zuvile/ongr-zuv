@@ -1,0 +1,7 @@
+<div class = "container">
+    {% for provinceInfo in provincesInfo %}
+       <div id="province_info_{{ provinceInfo.code }}" style="display:none">
+           <p>{{ provinceInfo.some_field }}</p>
+           </div>
+    {% endfor %}
+    </div>

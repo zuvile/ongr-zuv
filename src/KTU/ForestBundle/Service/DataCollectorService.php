@@ -2,18 +2,12 @@
 
 namespace KTU\ForestBundle\Service;
 
-use ONGR\ElasticsearchBundle\DSL\Aggregation\GlobalAggregation;
-use ONGR\ElasticsearchBundle\DSL\Aggregation\NestedAggregation;
 use ONGR\ElasticsearchBundle\DSL\Aggregation\StatsAggregation;
 use ONGR\ElasticsearchBundle\DSL\Aggregation\TermsAggregation;
-use ONGR\ElasticsearchBundle\DSL\Query\MatchAllQuery;
-use ONGR\ElasticsearchBundle\DSL\Query\Query;
 use ONGR\ElasticsearchBundle\DSL\Query\TermQuery;
-use ONGR\ElasticsearchBundle\DSL\Query\WildcardQuery;
 use ONGR\ElasticsearchBundle\ORM\Manager;
 use ONGR\ElasticsearchBundle\Result\Aggregation\AggregationIterator;
 use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
-use ONGR\ElasticsearchBundle\Result\DocumentIterator;
 
 class DataCollectorService
 {
@@ -82,7 +76,7 @@ class DataCollectorService
         $repository = $manager->getRepository('KTUForestBundle:Lot');
         $search = $repository->createSearch();
 
-        $query = new TermQuery('municipality', $province);
+        $query = new TermQuery('province', $province);
         $search->addQuery($query);
 
         $aggsDep = new TermsAggregation('department');
@@ -96,7 +90,11 @@ class DataCollectorService
         $search->addAggregation($aggsForestry);
 
         $documents = $repository->execute($search);
+        $aggs = $documents->getAggregations();
 
+        $array = $this->iterator_to_array_deep($aggs);
+
+        return ['code'=>'LT-UT','some_field'=>'some_data'];
 //        var_dump($documents->getAggregations()->find('forestry'));
     }
 
@@ -129,16 +127,34 @@ class DataCollectorService
 
         $query = new TermQuery('province', $province);
         $search->addQuery($query);
+//
+//        $stats = new NestedAggregation('layer_stats');
+//        $stats->setField('layers');
 
-        $stats = new NestedAggregation('layer_stats');
-        $stats->setField('layers');
-
-        $search->addAggregation($stats);
+//        $search->addAggregation($stats);
 
         $documents = $repository->execute($search);
-
-        var_dump($documents->getAggregations());
+//
+//        var_dump($documents->getAggregations());
 
         return $documents->count();
 }
+
+    private function iterator_to_array_deep(\Traversable $iterator, $use_keys = true) {
+        $array = array();
+        foreach ($iterator as $key => $value) {
+
+            if ($value instanceof \Traversable) {
+                $value = $this->iterator_to_array_deep($value, $use_keys);
+            } else            if ($value instanceof AggregationIterator) {
+                $value = $this->iterator_to_array_deep($value, $use_keys);
+            }
+            if ($use_keys) {
+                $array[$key] = $value;
+            } else {
+                $array[] = $value;
+            }
+        }
+        return $array;
+    }
 }

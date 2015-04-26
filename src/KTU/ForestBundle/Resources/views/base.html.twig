@@ -19,8 +19,8 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Žemėlapis</a></li>
-                    <li><a href="#">Apie projektą</a></li>
+                    <li id="nav_map" class="active"><a href="#" onclick="nav_about.className='';this.parentNode.className='active';ZUV.API.goTo('map')">Žemėlapis</a></li>
+                    <li id="nav_about"><a href="#" onclick="nav_map.className='';this.parentNode.className='active';ZUV.API.goTo('about')">Apie projektą</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->

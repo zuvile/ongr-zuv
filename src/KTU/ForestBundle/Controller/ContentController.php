@@ -20,9 +20,17 @@ class ContentController extends Controller
         //$service->collectMunicipalityData('Utenos r. sav.');
         $provinceRatios = $service->getProvincesRatios('Pušis');
 
+        $provinceInfo = $service->collectProvinceData('Utenos apskritis');
+
         return $this->render(
             'KTUForestBundle::index.html.twig',
-            ['provinceRatios' => $provinceRatios]
+            [
+                'provinceRatiosJSON' => json_encode($provinceRatios),
+                'provincesInfo' => [
+                    $provinceInfo
+                    // TODO return all 10 provinces, not one
+                ]
+            ]
         );
     }
 
