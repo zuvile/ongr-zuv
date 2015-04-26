@@ -93,6 +93,8 @@ class ImportService
                 $this->manager->commit();
                 $this->advance($this->output);
             }
+
+            $xmlReader->next('row');
         }
 
     }
