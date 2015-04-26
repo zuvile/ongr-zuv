@@ -16,8 +16,6 @@ class Lot implements DocumentInterface
 {
     use DocumentTrait;
 
-
-
     /**
      * @var string
      *

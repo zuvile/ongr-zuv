@@ -3,7 +3,6 @@
 namespace KTU\ForestBundle\Controller;
 
 use KTU\ForestBundle\Service\DataCollectorService;
-use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
