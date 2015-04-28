@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>398560</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>10.00</aukstis>
+  <diametras>10.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398560</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Maumedis</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>17.00</aukstis>
+  <diametras>18.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398560</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>18.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398562</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>6.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>11.00</aukstis>
+  <diametras>14.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398562</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Maumedis</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>15.00</aukstis>
+  <diametras>18.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398562</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>12.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398562</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>18.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398563</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Maumedis</medzio_rusis>
+  <sudeties_koeficientas>6.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>17.00</aukstis>
+  <diametras>18.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398563</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Liepa</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>12.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398549</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>26.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398549</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>28.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398549</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>24.00</aukstis>
+  <diametras>28.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398547</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>16.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398546</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398546</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>21.00</aukstis>
+  <diametras>24.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398546</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>22.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398545</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398545</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>28.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398544</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>10.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>24.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398540</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>4.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398540</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>4.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis bankso</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398540</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>4.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>20.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398540</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>4.800000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>15.00</aukstis>
+  <diametras>18.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398539</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398539</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398539</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>15.00</aukstis>
+  <diametras>16.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398539</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>11.00</aukstis>
+  <diametras>12.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398538</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398538</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Tuopa</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+ <row>
+  <id>398538</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Girionių m-ja</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1989-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Liepa</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+  <apskritis>Utenos apskritis</apskritis>
+ </row>
+</data>

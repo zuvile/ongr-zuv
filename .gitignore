@@ -19,9 +19,6 @@
 /app/build/*
 /app/check.php
 /web/uploads/*
-/web/bundles/
-/web/css/
-/web/js/
 /web/style/
 /web/style/css/
 /web/images/
