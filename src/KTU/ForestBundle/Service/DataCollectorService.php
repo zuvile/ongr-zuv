@@ -2,8 +2,13 @@
 
 namespace KTU\ForestBundle\Service;
 
+use ONGR\ElasticsearchBundle\DSL\Aggregation\FilterAggregation;
+use ONGR\ElasticsearchBundle\DSL\Aggregation\NestedAggregation;
 use ONGR\ElasticsearchBundle\DSL\Aggregation\StatsAggregation;
 use ONGR\ElasticsearchBundle\DSL\Aggregation\TermsAggregation;
+use ONGR\ElasticsearchBundle\DSL\Filter\TermFilter;
+use ONGR\ElasticsearchBundle\DSL\Query\FilteredQuery;
+use ONGR\ElasticsearchBundle\DSL\Query\NestedQuery;
 use ONGR\ElasticsearchBundle\DSL\Query\TermQuery;
 use ONGR\ElasticsearchBundle\ORM\Manager;
 use ONGR\ElasticsearchBundle\Result\Aggregation\AggregationIterator;
@@ -58,27 +63,45 @@ class DataCollectorService
         $query = new TermQuery('province', $province);
         $search->addQuery($query);
 
-        $species = new TermQuery('layers.species', $treeType);
+        $speciesQuery = new TermQuery('layers.species', $treeType);
+
+        $species = new NestedQuery('layers', $speciesQuery);
         $search->addQuery($species);
 
-        $stats = new StatsAggregation('ratio_stats');
-        $stats->setField('layers.ratio');
+        $termFilter = new TermFilter('layers.species', $treeType);
+        $stats = new NestedAggregation('ratio_stats');
+        $stats->setPath('layers');
+
+        $filter = new FilterAggregation('filter');
+        $filter->setFilter($termFilter);
+
+        $statsAggs = new StatsAggregation('stats');
+        $statsAggs->setField('layers.ratio');
+
+        $filter->addAggregation($statsAggs);
+        $stats->addAggregation($filter);
+
+//        $stats->addAggregation()
 
         $search->addAggregation($stats);
+
 
         $documents = $repository->execute($search);
 
         //TODO: account for regions without the tree type
 
 
-        $aggs = $documents->getAggregations();
+        print_r($documents->getAggregations());
 
-        if ($this->getLayerCount($province) != 0) {
+        $aggs = $documents->getAggregations();
+        $layerCount = $this->getLayerCount($province);
+
+        if ($layerCount != 0) {
             foreach ($aggs as $agg) {
                 /** @var ValueAggregation $agg */
                 $stats = $agg->getValue();
 
-                $average = round($stats['avg'], 4);
+                $average = round($stats['sum'], 4) * $layerCount / 100;
             }
 
         }
@@ -133,20 +156,29 @@ class DataCollectorService
         $repository = $manager->getRepository('KTUForestBundle:Lot');
         $search = $repository->createSearch();
 
-        //TODO: find layer count
-
         $query = new TermQuery('province', $province);
         $search->addQuery($query);
-//
-//        $stats = new NestedAggregation('layer_stats');
-//        $stats->setField('layers');
 
-//        $search->addAggregation($stats);
+        $stats = new StatsAggregation('ratio_stats');
+        $stats->setField('layers.ratio');
+
+        $search->addAggregation($stats);
 
         $documents = $repository->execute($search);
-//
-//        var_dump($documents->getAggregations());
 
-        return $documents->count();
+        var_dump($documents->getAggregations());
+
+        $aggs = $documents->getAggregations();
+
+        $count = 0;
+
+        foreach ($aggs as $agg) {
+            /** @var ValueAggregation $agg */
+            $stats = $agg->getValue();
+
+            $count = $stats['sum'];
+        }
+
+        return $count;
     }
 }

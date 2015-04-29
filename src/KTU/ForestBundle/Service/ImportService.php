@@ -90,10 +90,10 @@ class ImportService
                 $this->advance($this->output);
             } else {
                 $this->lotUpdate($row);
-                $this->manager->commit();
                 $this->advance($this->output);
             }
 
+            $this->manager->commit();
             $xmlReader->next('row');
         }
 

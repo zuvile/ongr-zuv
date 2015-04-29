@@ -74,7 +74,7 @@ class Lot implements DocumentInterface
     /**
      * @var  array
      *
-     * @ES\Property(name="layers", type="object", multiple=true, objectName="KTUForestBundle:Layer")
+     * @ES\Property(name="layers", type="nested", multiple=true, objectName="KTUForestBundle:Layer")
      */
     private $layers = [];
 
