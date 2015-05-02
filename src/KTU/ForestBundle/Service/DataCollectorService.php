@@ -10,6 +10,7 @@ use ONGR\ElasticsearchBundle\DSL\Filter\TermFilter;
 use ONGR\ElasticsearchBundle\DSL\Query\FilteredQuery;
 use ONGR\ElasticsearchBundle\DSL\Query\NestedQuery;
 use ONGR\ElasticsearchBundle\DSL\Query\TermQuery;
+use ONGR\ElasticsearchBundle\DSL\Query\WildcardQuery;
 use ONGR\ElasticsearchBundle\ORM\Manager;
 use ONGR\ElasticsearchBundle\Result\Aggregation\AggregationIterator;
 use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
@@ -81,8 +82,6 @@ class DataCollectorService
         $filter->addAggregation($statsAggs);
         $stats->addAggregation($filter);
 
-//        $stats->addAggregation()
-
         $search->addAggregation($stats);
 
 
@@ -90,20 +89,23 @@ class DataCollectorService
 
         //TODO: account for regions without the tree type
 
-
-        print_r($documents->getAggregations());
-
         $aggs = $documents->getAggregations();
+
+        foreach ($aggs as $agg) {
+            /** @var $agg ValueAggregation */
+            $aggs2 = $agg->getAggregations();
+            foreach ($aggs2 as $agg2) {
+                /** @var $agg2 ValueAggregation */
+                $agg3 = $agg2->getAggregations();
+                foreach ($agg3 as $aggFinal) {
+                    $final = $aggFinal->getValue()['sum'];
+                }
+            }
+        }
         $layerCount = $this->getLayerCount($province);
 
-        if ($layerCount != 0) {
-            foreach ($aggs as $agg) {
-                /** @var ValueAggregation $agg */
-                $stats = $agg->getValue();
-
-                $average = round($stats['sum'], 4) * $layerCount / 100;
-            }
-
+        if ($layerCount != 0 && isset($final)) {
+             $average = round($final / $layerCount, 4);
         }
 
         return $average;
@@ -128,11 +130,20 @@ class DataCollectorService
 
         $search->addAggregation($aggsForestry);
 
-        $documents = $repository->execute($search);
-        $aggs = $documents->getAggregations();
+        $aggsLushness = new TermsAggregation('lushness');
+        $aggsLushness->setField('lushness');
 
-        return ['code' => 'LT-UT', 'some_field' => 'some_data'];
-//        var_dump($documents->getAggregations()->find('forestry'));
+        $search->addAggregation($aggsLushness);
+
+        $documents = $repository->execute($search);
+
+        $department = $this->loadDepartmentData($documents->getAggregations()->find('department'));
+        $forestry = $this->loadForestryData($documents->getAggregations()->find('forestry'));
+        $territory = $this->loadTerritoryData($province);
+        $lushness = $this->loadLushnessData($province);
+
+        return ['code' => 'LT-KU','teritory' => $territory, 'forestries' => $forestry,
+        'departments' => $department, 'average_lushness' => $lushness];
     }
 
     public function getProvincesRatios($treeType)
@@ -152,6 +163,7 @@ class DataCollectorService
 
     public function getLayerCount($province)
     {
+        $value = 0;
         $manager = $this->manager;
         $repository = $manager->getRepository('KTUForestBundle:Lot');
         $search = $repository->createSearch();
@@ -159,26 +171,96 @@ class DataCollectorService
         $query = new TermQuery('province', $province);
         $search->addQuery($query);
 
-        $stats = new StatsAggregation('ratio_stats');
-        $stats->setField('layers.ratio');
+        $speciesQuery = new WildcardQuery('layers.species', '*');
 
+        $species = new NestedQuery('layers', $speciesQuery);
+        $search->addQuery($species);
+
+        $termFilter = new TermFilter('layers.species', '*');
+        $stats = new NestedAggregation('ratio_stats');
+        $stats->setPath('layers');
+
+        $filter = new FilterAggregation('filter');
+        $filter->setFilter($termFilter);
+
+        $statsAggs = new StatsAggregation('stats');
+        $statsAggs->setField('layers.ratio');
+
+        $filter->addAggregation($statsAggs);
+        $stats->addAggregation($filter);
         $search->addAggregation($stats);
-
         $documents = $repository->execute($search);
-
-        var_dump($documents->getAggregations());
-
         $aggs = $documents->getAggregations();
 
-        $count = 0;
-
         foreach ($aggs as $agg) {
-            /** @var ValueAggregation $agg */
-            $stats = $agg->getValue();
-
-            $count = $stats['sum'];
+            $value = $agg->getValue()['doc_count'];
         }
 
-        return $count;
+        return $value;
+    }
+
+    private function loadDepartmentData(AggregationIterator $agg)
+    {
+        $departmentCount = 0;
+        foreach ($agg as $aggregation) {
+            $departmentCount++;
+        }
+        return $departmentCount;
+    }
+
+    private function loadForestryData($agg)
+    {
+        $forestryCount = 0;
+        foreach ($agg as $aggregation) {
+            $forestryCount++;
+        }
+        return $forestryCount;
+
+    }
+
+    private function loadTerritoryData($province)
+    {
+        $territory = null;
+        $manager = $this->manager;
+        $repository = $manager->getRepository('KTUForestBundle:Lot');
+        $search = $repository->createSearch();
+        $query = new TermQuery('province', $province);
+        $search->addQuery($query);
+        $statsAggs = new StatsAggregation('stats');
+        $statsAggs->setField('territory');
+        $search->addAggregation($statsAggs);
+        $documents = $repository->execute($search);
+
+        /** @var AggregationIterator $aggs */
+        $aggs = $documents->getAggregations();
+
+        foreach ($aggs as $aggregation) {
+            $territory = $aggregation->getValue()['sum'];
+        }
+
+        return $territory;
+    }
+
+    private function loadLushnessData($province)
+    {
+        $lushness = null;
+        $manager = $this->manager;
+        $repository = $manager->getRepository('KTUForestBundle:Lot');
+        $search = $repository->createSearch();
+        $query = new TermQuery('province', $province);
+        $search->addQuery($query);
+        $statsAggs = new StatsAggregation('stats');
+        $statsAggs->setField('lushness');
+        $search->addAggregation($statsAggs);
+        $documents = $repository->execute($search);
+
+        /** @var AggregationIterator $aggs */
+        $aggs = $documents->getAggregations();
+
+        foreach ($aggs as $aggregation) {
+            $lushness = $aggregation->getValue()['avg'];
+        }
+
+        return $lushness;
     }
 }
