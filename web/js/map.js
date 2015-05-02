@@ -39,6 +39,7 @@ function drawMap() {
     google.visualization.events.addListener(geomap, 'regionClick', function(event) {
 
 if(previous !== undefined)        document.getElementById('province_info_' + previous).style.display='none';
+        document.getElementById('info').style.display='none';
         document.getElementById('province_info_' + event.region).style.display='block';
 previous = event.region;
     });
