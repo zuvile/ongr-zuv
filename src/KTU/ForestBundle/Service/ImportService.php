@@ -20,6 +20,7 @@ class ImportService
 
     /**
      * @return OutputInterface
+     * @codeCoverageIgnore
      */
     public function getOutput()
     {
@@ -28,6 +29,7 @@ class ImportService
 
     /**
      * @param OutputInterface $output
+     * @codeCoverageIgnore
      */
     public function setOutput($output)
     {
@@ -39,18 +41,18 @@ class ImportService
      */
     private $progress;
 
+    /**
+     * @param ProgressBar $progress
+     */
+    public function setProgress($progress)
+    {
+        $this->progress = $progress;
+    }
+
     /** @var OutputInterface */
     private $output;
 
     private $provinceMapFile;
-
-    /**
-     * @return mixed
-     */
-    public function getProvinceMapFile()
-    {
-        return $this->provinceMapFile;
-    }
 
     /**
      * @param mixed $provinceMapFile
@@ -181,8 +183,9 @@ class ImportService
 
     /**
      * @param OutputInterface $output
+     * @codeCoverageIgnore
      */
-    private function advance(OutputInterface $output)
+    private function advance($output)
     {
         if ($this->progress == null) {
             $this->progress = new ProgressBar($output);
