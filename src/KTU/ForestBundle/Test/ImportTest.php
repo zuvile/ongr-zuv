@@ -54,7 +54,7 @@ class ImportTest extends WebTestCase {
         $existingLot->setFrom('1989-01-01 00:00:00.000');
         $layer = new Layer();
         $layer2 = new Layer();
-        $layer->setSpecies('Eglė');
+        $layer->setSpecies('Maumedis');
         $layer->setRatio(1.0);
         $layer->setAge(30);
         $layer->setHeight(10.00);
@@ -62,7 +62,29 @@ class ImportTest extends WebTestCase {
         $layer->setLayer('Medyno 1 ardas');
         $existingLot->addLayer($layer);
         $existingLot->addLayer($layer2);
-        $out[] = [$expected, 'data.xml', $existingLot];
+
+        $expected = new Lot();
+        $expected->setId('398560');
+        $expected->setProvince('Kauno apskritis');
+        $expected->setLushness(0.90);
+        $expected->setForestry('Girionių m-ja');
+        $expected->setDepartment('Dubravos eksperimentinė mokomoji miškų urėdija');
+        $expected->setMunicipality('Kauno r. sav.');
+        $expected->setTerritory(2.200000);
+        $expected->setFrom('1989-01-01 00:00:00.000');
+        $layer3 = new Layer();
+        $layer3->setSpecies('Eglė');
+        $layer3->setRatio(1.0);
+        $layer3->setAge(30);
+        $layer3->setHeight(10.00);
+        $layer3->setDiameter(10.0);
+        $layer3->setLayer('Medyno 1 ardas');
+        $expected->addLayer($layer);
+        $expected->addLayer($layer2);
+        $expected->addLayer($layer3);
+
+
+        $out[] = [$expected, 'data2.xml', $existingLot];
 
         return $out;
     }

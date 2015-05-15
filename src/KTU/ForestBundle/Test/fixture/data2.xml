@@ -1,0 +1,32 @@
+<data>
+    <row>
+        <id>398560</id>
+        <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+        <girininkija>Girionių m-ja</girininkija>
+        <savivaldybe>Kauno r. sav.</savivaldybe>
+        <plotas>2.200000</plotas>
+        <skalsumas>0.90</skalsumas>
+        <nuo>1989-01-01 00:00:00.000</nuo>
+        <ardas>Medyno 1 ardas</ardas>
+        <medzio_rusis>Eglė</medzio_rusis>
+        <sudeties_koeficientas>1.0</sudeties_koeficientas>
+        <amzius>30</amzius>
+        <aukstis>10.00</aukstis>
+        <diametras>10.0</diametras>
+    </row>
+    <row>
+        <id>398560</id>
+        <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+        <girininkija>Girionių m-ja</girininkija>
+        <savivaldybe>Kauno r. sav.</savivaldybe>
+        <plotas>2.200000</plotas>
+        <skalsumas>0.90</skalsumas>
+        <nuo>1989-01-01 00:00:00.000</nuo>
+        <ardas>Medyno 1 ardas</ardas>
+        <medzio_rusis>Maumedis</medzio_rusis>
+        <sudeties_koeficientas>1.0</sudeties_koeficientas>
+        <amzius>30</amzius>
+        <aukstis>10.00</aukstis>
+        <diametras>10.0</diametras>
+    </row>
+</data>
