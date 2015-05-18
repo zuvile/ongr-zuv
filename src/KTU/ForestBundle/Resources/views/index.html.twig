@@ -9,13 +9,12 @@
         };
     </script>
     <script type='text/javascript' src="{{ asset('js/map.js') }}"></script>
-    <script type='text/javascript' src="{{ asset('js/misc.js') }}"></script>
     <div class="container" id="page_about" style="display:none">
         {% include 'KTUForestBundle::about.html.twig' %}
     </div>
     <div id="page_map">
         <div class="container">
-            <div class="dropdown">
+            <div class="dropdown" id="foobar">
                 <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"
                         aria-expanded="true">
                     <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>Medžių rūšis
