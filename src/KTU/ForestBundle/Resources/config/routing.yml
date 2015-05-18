@@ -2,3 +2,6 @@
 zuv_demo_homepage:
     path:     /
     defaults: { _controller: KTUForestBundle:Content:homePage }
+zuv_demo_provinces:
+    path:     /provinces
+    defaults: { _controller: KTUForestBundle:Content:provinces }
