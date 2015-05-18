@@ -30,6 +30,26 @@ class ContentController extends Controller
         );
     }
 
+    /**
+     * @Route("/provinces")
+     */
+    public function provincesAction()
+    {
+        /** @var DataCollectorService $service */
+        $service = $this->get('forest.data.collector');
+        $provinceRatios = $service->getProvincesRatios($request->query->get('tree_type'));
+
+        $provincesInfo = $service->collectAllProvincesInfo();
+
+        return $this->render(
+            'KTUForestBundle::provinces.html.twig',
+            [
+                'provinceRatiosJSON' => json_encode($provinceRatios),
+                'provincesInfo' => $provincesInfo
+            ]
+        );
+    }
+
 
 
 }
