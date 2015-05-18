@@ -163,4 +163,9 @@ class Layer
             'diameter' => $this->diameter
         ];
     }
+
+    public function equalsTo(Layer $layer)
+    {
+
+    }
 }

@@ -44,3 +44,4 @@ if(previous !== undefined)        document.getElementById('province_info_' + pre
 previous = event.region;
     });
 }
+
