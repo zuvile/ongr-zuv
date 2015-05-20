@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>907980</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>10.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>907980</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Juodalksnis</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>10.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>907980</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Gluosnis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907983</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>4.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>907983</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>4.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Juodalksnis</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>907983</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>4.400000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Pomiškis</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907985</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Juodalksnis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907986</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>3</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907940</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Juodalksnis</medzio_rusis>
+  <sudeties_koeficientas>4.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>907940</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>907940</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>21.00</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>907940</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>21.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>907940</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Gluosnis</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>13.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>907941</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>907941</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Pomiškis</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>3.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>907942</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>27.00</aukstis>
+  <diametras>32.0</diametras>
+ </row>
+ <row>
+  <id>907942</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>27.00</aukstis>
+  <diametras>32.0</diametras>
+ </row>
+ <row>
+  <id>907942</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907942</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Pomiškis</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>2.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>907943</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>7.900000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>15.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>907945</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>6.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>9.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>907945</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>6.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907946</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>9.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>907946</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>6.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>907946</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907946</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Maumedis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>907950</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>907950</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>14.0</diametras>
+ </row>
+ <row>
+  <id>907951</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>23.00</aukstis>
+  <diametras>30.0</diametras>
+ </row>
+ <row>
+  <id>907951</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1991-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>24.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+</data>

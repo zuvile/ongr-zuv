@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>163697</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>7.500000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Polajinės kultūros</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163697</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>7.500000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Polajinės kultūros</ardas>
+  <medzio_rusis>Blindė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>3</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>163663</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>28.00</aukstis>
+  <diametras>32.0</diametras>
+ </row>
+ <row>
+  <id>163663</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>26.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>163663</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>163664</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>28.00</aukstis>
+  <diametras>32.0</diametras>
+ </row>
+ <row>
+  <id>163664</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>27.00</aukstis>
+  <diametras>32.0</diametras>
+ </row>
+ <row>
+  <id>163664</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163664</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163664</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Pomiškis</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163665</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>27.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>163665</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>26.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>163665</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>17.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>163666</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>28.00</aukstis>
+  <diametras>30.0</diametras>
+ </row>
+ <row>
+  <id>163667</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>3</amzius>
+  <aukstis>0.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163667</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>2</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163667</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Polajinės kultūros</ardas>
+  <medzio_rusis>Blindė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>2</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>163668</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>27.00</aukstis>
+  <diametras>36.0</diametras>
+ </row>
+ <row>
+  <id>163668</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>163668</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163668</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163668</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163668</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas></skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Pomiškis</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163669</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.400000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>28.00</aukstis>
+  <diametras>32.0</diametras>
+ </row>
+ <row>
+  <id>163669</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.400000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163670</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>26.00</aukstis>
+  <diametras>34.0</diametras>
+ </row>
+ <row>
+  <id>163670</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>163670</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>163671</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>27.00</aukstis>
+  <diametras>38.0</diametras>
+ </row>
+ <row>
+  <id>163671</id>
+  <uredija>Trakų miškų urėdija</uredija>
+  <girininkija>Lentvario girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>27.00</aukstis>
+  <diametras>36.0</diametras>
+ </row>
+</data>

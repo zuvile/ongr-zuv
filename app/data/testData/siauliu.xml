@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>611960</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.100000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>23.00</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>611960</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.100000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Tuopa</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>48.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Uosis</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Klevas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Liepa</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Kiti minkštieji lapuočiai</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Maumedis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611964</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>5.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Guoba</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Klevas</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>60.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>60.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Liepa</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>100</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>58.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Klevas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Liepa</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Kiti minkštieji lapuočiai</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Tuopa</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Uosis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Gluosnis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611967</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611970</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>8.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>611970</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>15.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>611970</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Klevas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611970</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Guoba</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611971</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Klevas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>4.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>611971</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Ąžuolas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>611971</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Gluosnis</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>4.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>611971</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Liepa</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>611971</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>7601</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>1994-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Guoba</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+</data>

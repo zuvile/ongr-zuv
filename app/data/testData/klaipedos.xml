@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>233733</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>1</amzius>
+  <aukstis>0.20</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233734</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>2</amzius>
+  <aukstis>0.20</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233736</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>233736</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>2.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>233737</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.100000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis kalninė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>100</amzius>
+  <aukstis>4.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>233738</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>14.0</diametras>
+ </row>
+ <row>
+  <id>233738</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233739</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>233714</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233714</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233714</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis kalninė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.30</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233713</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>110</amzius>
+  <aukstis>10.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>233712</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>4</amzius>
+  <aukstis>0.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233424</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>100</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233424</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis kalninė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>110</amzius>
+  <aukstis>4.00</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>233427</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>1</amzius>
+  <aukstis>0.70</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233427</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>1</amzius>
+  <aukstis>0.20</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233739</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>17.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>233740</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>10.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>233741</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis kalninė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>3.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>233741</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>8.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>233775</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>233775</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233776</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>95</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>233777</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>233777</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>233777</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>233778</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Juodalksnis</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>233778</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>233787</id>
+  <uredija>Kuršių nerijos nacionalinis parkas</uredija>
+  <girininkija>Smiltynės girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>8.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2001-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pušis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+</data>

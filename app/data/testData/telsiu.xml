@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>702927</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702928</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>11.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>702928</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>17.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>702928</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>15.00</aukstis>
+  <diametras>14.0</diametras>
+ </row>
+ <row>
+  <id>702928</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Juodalksnis</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>13.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>702929</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>4.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>8.00</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>702929</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>702929</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>10.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>702930</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>702921</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>3.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>13.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>702921</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>3.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>13.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>702921</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>3.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>6.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>702920</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702920</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>702920</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>702920</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>4.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>702919</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>90</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702919</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>702919</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>702919</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>702919</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>24.00</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>702973</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702973</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>10</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702973</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>10</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>702972</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Drebulė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702972</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>13.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>702972</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>10.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>702971</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Baltalksnis</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>10</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702971</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Eglė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>702970</id>
+  <uredija>Kuršėnų miškų urėdija</uredija>
+  <girininkija>Tryškių girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>1993-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Beržas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>11.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+</data>
