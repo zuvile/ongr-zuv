@@ -19,16 +19,29 @@ class ContentController extends Controller
         $service = $this->get('forest.data.collector');
         $provinceRatios = $service->getProvincesRatios('Eglė');
 
-        $provinceInfo = $service->collectProvinceData('Kauno apskritis');
+        $provincesInfo = $service->collectAllProvincesInfo();
 
         return $this->render(
             'KTUForestBundle::index.html.twig',
             [
                 'provinceRatiosJSON' => json_encode($provinceRatios),
-                'provincesInfo' => [
-                    $provinceInfo
-                    // TODO return all 10 provinces, not one
-                ]
+                'provincesInfo' => $provincesInfo
+            ]
+        );
+    }
+
+    public function provincesAction()
+    {
+        /** @var DataCollectorService $service */
+        $service = $this->get('forest.data.collector');
+        $provinceRatios = $service->getProvincesRatios($this->getRequest()->query->get('tree_type'));
+        $provincesInfo = $service->collectAllProvincesInfo();
+
+        return $this->render(
+            'KTUForestBundle::provinces.html.twig',
+            [
+                'provinceRatiosJSON' => json_encode($provinceRatios),
+                'provincesInfo' => $provincesInfo
             ]
         );
     }

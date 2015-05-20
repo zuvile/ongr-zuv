@@ -35,9 +35,31 @@ class DataCollectorService
         'Vilniaus apskritis',
     ];
 
+    /** @var  array */
+    private $provinceCodes = [
+        'Kauno apskritis' => 'LT-KU',
+        'Alytaus apskritis' => 'LT-AL',
+        'Klaipėdos apskritis' => 'LT-KL',
+        'Marijampolės apskritis' => 'LT-MR',
+        'Panevėžio apskritis' => 'LT-PN',
+        'Šiaulių apskritis' => 'LT-SA',
+        'Tauragės apskritis' => 'LT-TA',
+        'Telšių apskritis' => 'LT-TE',
+        'Utenos apskritis' => 'LT-UT',
+        'Vilniaus apskritis' => 'LT-VL',
+    ];
+
     public function __construct(Manager $manager)
     {
         $this->manager = $manager;
+    }
+
+    /**
+     * @return array
+     */
+    public function getProvinces()
+    {
+        return $this->provinces;
     }
 
     public function collectProvinces()
@@ -84,10 +106,7 @@ class DataCollectorService
 
         $search->addAggregation($stats);
 
-
         $documents = $repository->execute($search);
-
-        //TODO: account for regions without the tree type
 
         $aggs = $documents->getAggregations();
 
@@ -105,7 +124,7 @@ class DataCollectorService
         $layerCount = $this->getLayerCount($province);
 
         if ($layerCount != 0 && isset($final)) {
-             $average = round($final / $layerCount, 4);
+            $average = round($final / $layerCount, 4);
         }
 
         return $average;
@@ -142,8 +161,10 @@ class DataCollectorService
         $territory = $this->loadTerritoryData($province);
         $lushness = $this->loadLushnessData($province);
 
-        return ['code' => 'LT-KU','teritory' => $territory, 'forestries' => $forestry,
-        'departments' => $department, 'average_lushness' => $lushness];
+        $code = $this->provinceCodes[$province];
+
+        return ['code' => $code, 'teritory' => $territory, 'forestries' => $forestry,
+            'departments' => $department, 'average_lushness' => $lushness];
     }
 
     public function getProvincesRatios($treeType)
@@ -263,4 +284,18 @@ class DataCollectorService
 
         return $lushness;
     }
+
+    public function collectAllProvincesInfo()
+    {
+        $provincesInfo = [];
+        foreach ($this->provinces as $province) {
+            $provinceInfo = $this->collectProvinceData($province);
+            $code = $provinceInfo['code'];
+            $provincesInfo[$code] = $provinceInfo;
+        }
+
+        return $provincesInfo;
+
+    }
+
 }
