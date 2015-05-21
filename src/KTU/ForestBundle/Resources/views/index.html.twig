@@ -52,8 +52,13 @@
                 <div class="col-md-8">
                     <div class="panel panel-default">
                         <div class="panel-heading">Žemėlapis<b></b></div>
-
                         <div id='map_canvas'></div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">Informacija apie apskritį</div>
+                        <div class="panel-body">
+                            {% include 'KTUForestBundle::region.html.twig' %}
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -65,18 +70,7 @@
                         </div>
                     </div>
                 </div>
-
             </div>
-        </div>
-        <div class="container">
-        <div class="panel panel-default">
-            <div class="panel-heading">Informacija apie apskritį</div>
-            <div class="panel-body">
-                <h3></h3>
-                {% include 'KTUForestBundle::region.html.twig' %}
-                <div id="treeInfo"></div>
-            </div>
-        </div>
         </div>
     </div>
 {% endblock %}
