@@ -285,7 +285,7 @@ class DataCollectorService
             $lushness = $aggregation->getValue()['avg'];
         }
 
-        return $lushness;
+        return round($lushness, 2);
     }
 
     public function collectAllProvincesInfo()
