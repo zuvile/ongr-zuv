@@ -59,16 +59,17 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="panel panel-default">
-                        <div class="panel-heading">Medžio tipas:<b><div id="type"></div></b></div>
+                        <div class="panel-heading">Žemėlapis<b></b></div>
 
                         <div id='map_canvas'></div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="panel panel-default">
-                        <div class="panel-heading">Pagrindinė savivaldybės info</div>
+                        <div class="panel-heading">Informacija apie medžio rūšį</div>
                         <div class="panel-body">
-                            {% include 'KTUForestBundle::region.html.twig' %}
+                            <b></b>
+                            <div id="treeInfo"></div>
                         </div>
                     </div>
                 </div>
@@ -77,7 +78,8 @@
         </div>
         <div class="container">
             <div class='jumbotron'>
-                Daugiau info apie savivaldybę
+                <h3>Informacija apie apskritį</h3>
+                {% include 'KTUForestBundle::region.html.twig' %}
             </div>
         </div>
     </div>

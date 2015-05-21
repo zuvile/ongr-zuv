@@ -5,3 +5,6 @@ zuv_demo_homepage:
 zuv_demo_provinces:
     path:     /provinces
     defaults: { _controller: KTUForestBundle:Content:provinces }
+zuv_tree_type:
+    path:     /treeInfo/{treeType}
+    defaults: { _controller: KTUForestBundle:Content:treeInfo, treeType: 'Eglė'}
