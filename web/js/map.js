@@ -4,7 +4,8 @@ ZUV.API = {
         document.getElementById('page_' + this._previousState).style.display='none';
         this._previousState = state;
         document.getElementById('page_' + state).style.display='block';
-    }
+    },
+    currentRegion: null
 }
 
 google.load('visualization', '1', {'packages': ['geomap']});
@@ -34,13 +35,10 @@ function drawMap() {
     var container = document.getElementById('map_canvas');
     var geomap = new google.visualization.GeoMap(container);
     geomap.draw(data, options);
-    var previous;
     google.visualization.events.addListener(geomap, 'regionClick', function(event) {
-
-if(previous !== undefined)        document.getElementById('province_info_' + previous).style.display='none';
+        if(ZUV.API.currentRegion !== null)        document.getElementById('province_info_' + ZUV.API.currentRegion).style.display='none';
         document.getElementById('info').style.display='none';
         document.getElementById('province_info_' + event.region).style.display='block';
-previous = event.region;
+        ZUV.API.currentRegion = event.region;
     });
 }
-

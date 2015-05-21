@@ -4,6 +4,8 @@ $(window).bind('hashchange', function() {
     $('#type').text(treeType);
     $.getJSON('/provinces?tree_type=' + treeType, function(provinces) {
         ZUV.data.provinces = provinces;
+        if(ZUV.API.currentRegion !== null) document.getElementById('province_info_' + ZUV.API.currentRegion).style.display='none';
+        document.getElementById('info').style.display='block';
         drawMap();
     });
 
