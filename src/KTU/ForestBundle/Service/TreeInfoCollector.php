@@ -29,7 +29,7 @@ class TreeInfoCollector
         'Gluosnis' => '/images/gluosnis.jpg',
         'Kedras' => '/images/kedras.jpg',
         'Vinkšna' => '/images/vinksna.jpg',
-        'Bukas' => '/images/bukas.jpg',
+        'Bukas' => '/images/bukas1.jpg',
     ];
     private $descriptions = [
         'Eglė' => 'Eglės yra visžaliai ir vienkamieniai medžiai. Eglių laja kūgiška, smailiaviršūnė. Krūmo pavidalo kamienas susidaro tik ypatingomis augimo sąlygomis. Išauga iki 20-60 m aukščio, atskirais atvejais dar aukštesnės, ypač tai būdinga sitkinėms eglėms, kurios vienas individas išmatuotas esantis 96,7 m aukščio.',
