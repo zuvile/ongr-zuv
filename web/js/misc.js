@@ -6,10 +6,13 @@ $(window).bind('hashchange', function() {
         ZUV.data.provinces = provinces;
         drawMap();
     });
+
+    $('#treeInfo').load('/treeInfo/' + treeType);
 });
 
 $(document).ready(
     function() {
         $('#type').text('Eglė');
+        $('#treeInfo').load('/treeInfo/Eglė');
     }
 );

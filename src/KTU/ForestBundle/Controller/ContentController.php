@@ -3,6 +3,7 @@
 namespace KTU\ForestBundle\Controller;
 
 use KTU\ForestBundle\Service\DataCollectorService;
+use KTU\ForestBundle\Service\TreeInfoCollector;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
@@ -47,5 +48,18 @@ class ContentController extends Controller
     }
 
 
+    public function treeInfoAction($treeType)
+    {
+        /** @var TreeInfoCollector $service */
+        $service = $this->get('tree.info.collector');
+        $info = $service->getTreeInfo($treeType);
+        return $this->render(
+            'KTUForestBundle::tree.html.twig',
+            [
+                'treeType'=> $treeType,
+                'info' => $info
+            ]
+        );
+    }
 
 }

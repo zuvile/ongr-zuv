@@ -11,3 +11,7 @@ services:
     forest.data.collector:
         class: KTU\ForestBundle\Service\DataCollectorService
         arguments: [@es.manager]
+
+    tree.info.collector:
+        class: KTU\ForestBundle\Service\TreeInfoCollector
+        arguments: [@es.manager]

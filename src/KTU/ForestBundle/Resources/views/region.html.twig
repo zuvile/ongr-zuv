@@ -1,57 +1,21 @@
 {% for provinceInfo in provincesInfo %}
        <div id="province_info_{{ provinceInfo.code }}" style="display:none">
-           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-               <div class="panel panel-default">
-                   <div class="panel-heading" role="tab" id="headingOne">
-                       <h4 class="panel-title">
-                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                               Urėdijos ir girininkijos
-                           </a>
-                           Sklypai užima <b>{{ provinceInfo.teritory }}</b> hektarų teritoriją.
-                       </h4>
-                   </div>
-                   <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                       <div class="panel-body">
-                         <b>Girininkija</b> − gamybinis administracinis miškų urėdijos ūkio vienetas.<br>
-                         Apskritis turi TODO urėdijas ir <b>{{ provinceInfo.forestries }}</b> girininkijas.
-                       </div>
-                   </div>
-               </div>
-               <div class="panel panel-default">
-                   <div class="panel-heading" role="tab" id="headingTwo">
-                       <h4 class="panel-title">
-                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                               Sklypai
-                           </a>
-                       </h4>
-                   </div>
-                   <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                       <div class="panel-body">
-                           Iš viso apskrityje sklypų: TODO <br>
-                   Sklypai užima <b>{{ provinceInfo.teritory }}</b> hektarų teritoriją.
-                       </div>
-                   </div>
-               </div>
-               <div class="panel panel-default">
-                   <div class="panel-heading" role="tab" id="headingThree">
-                       <h4 class="panel-title">
-                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                               Medžiai ir skalsumas
-                           </a>
-                       </h4>
-                   </div>
-                   <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                       <div class="panel-body">
-                           <b>Medyno skalsumas</b> – tai esamo normalaus medynų tūrių (arba skerspločių sumų) santykis.<br>
-                           Vidutinis skalsumas sklypuose: <b>{{ provinceInfo.average_lushness }}</b>
-                           <br>
-                           Apskrityje vyraujanti medžių rūšis: TODO
-                       </div>
-                   </div>
-               </div>
-           </div>
-           </div>
-    <div id = "info">
 
-        </div>
+           Apskritis turi TODO sklypus, kurie užima {{ provinceInfo.teritory }} hektarų plotą.
+           <br>
+           <b>Medyno skalsumas</b> – tai esamo normalaus medynų tūrių (arba skerspločių sumų) santykis.<br>
+           Vidutinis skalsumas sklypuose: <b>{{ provinceInfo.average_lushness }}</b>
+           <br>
+           Apskrityje vyraujanti medžių rūšis: TODO
+           <br>
+           <b>Girininkija</b> − gamybinis administracinis miškų urėdijos ūkio vienetas.<br>
+           Apskritis turi TODO urėdijas ir <b>{{ provinceInfo.forestries }}</b> girininkijas.
+           </div>
     {% endfor %}
+<div id="info">
+    <div class="alert alert-warning" role="alert">
+        <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+        Paspauskite ant apskrities žemėlaypje norėdami peržiūrėti informaciją apie apskritį.
+    </div>
+
+</div>
