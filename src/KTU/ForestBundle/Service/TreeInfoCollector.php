@@ -7,6 +7,7 @@ class TreeInfoCollector
     private $images = [
         'Eglė' => '/images/egle.jpg',
         'Beržas' => '/images/berzas.jpg',
+        'Pušis' => '/images/pusis.jpg',
         'Pušis bankso' => '/images/bankso_pusis.jpg',
         'Pušis kalninė' => '/images/kalnine_pusis.jpg',
         'Pušis juodoji' => '/images/juodoji_pusis.jpg',
@@ -55,7 +56,8 @@ Tai natūraliai Lietuvoje auganti rūšis, dažniausiai sutinkama mišriuose mi�
         'Kedras' => 'Tai visžalis, spygliuotis medis, kurio aukštis siekia 40–50 m (kartais iki 60 m), kamieno skersmuo iki 3 m. Medžio laja kūgiška, su horizontaliomis šakomis bei žemyn nusvirusiomis šakelėmis. Spygliai 2,5–5 cm ilgio, apie 1 mm storio, susitelkę po 20–30 ant šakelės.',
         'Vinkšna' => 'Medis užauga iki 35 m aukščio. Laja tanki, plačiai elipsiška. Žiedai rausvi, smulkūs, dvilyčiai ant trumpo kotelio. Mediena prastos kokybės, nors tinka stalių gaminiams, apdailai, papuošalams. Nuo seno sodinama miestų ir kaimų apželdinimui.',
         'Bukas' => 'Miškuose augančių paprastųjų bukų laja siaura, pakilusi aukštai, atvirose vietose išplatėjusi, kūgio formos. Žievė lygi, plona ir sidabriškai pilka. Ūgliai apvalūs, tamsiai rausvai rudi, pradžioje plaukuoti, vėliau pliki. Pumupurai 15-20 mm ilgio, liauni, šviesiai rudi su daug žvynelių, pražanginiai, verpstiški, nusmailėjusiais aštriais galais, išsidėstę dviem eilutėmis. Paprastasis bukas žydėti pradeda 30-80 metų amžiaus.',
-        'Beržas' => 'Beržai vieni tarp greičiausiai augančių Žemėje medžių rūšių, nes kai kurios jų rūšys jau po šešerių metų gali siektį 7 m aukštį. Užauga kaip medžiai ir krūmai su atplaišojančia tošimi, nuo keleto dešimčių cm (beržas keružis) iki 40 m (popieržievis beržas, karpotasis beržas) aukščio. Auga su vienu ar turi keletą kamienų. '
+        'Beržas' => 'Beržai vieni tarp greičiausiai augančių Žemėje medžių rūšių, nes kai kurios jų rūšys jau po šešerių metų gali siektį 7 m aukštį. Užauga kaip medžiai ir krūmai su atplaišojančia tošimi, nuo keleto dešimčių cm (beržas keružis) iki 40 m (popieržievis beržas, karpotasis beržas) aukščio. Auga su vienu ar turi keletą kamienų. ',
+        'Pušis' => 'Paprastoji pušis po paprastojo kadagio yra labiausiai paplitęs spygliuotis pasaulyje. Ji savaime išplitusi beveik visoje Europoje, Mažosios Azijos šiaurinėje dalyje, Kaukaze, Sibire, Mongolijoje, Rusijos Tolimuosiuose Rytuose beveik iki Ochotsko jūros.'
     ];
 
     public function getTreeInfo($treeType)
