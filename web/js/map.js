@@ -17,7 +17,7 @@ function drawMap() {
         ['LT-KU', ZUV.data.provinces['Kauno apskritis'], 'Kaunas'],
         ['LT-KL', ZUV.data.provinces['Klaipėdos apskritis'], 'Klaipėda'],
         ['LT-MR', ZUV.data.provinces['Marijampolės apskritis'], 'Marijampolė'],
-        ['LT-PN', ZUV.data.provinces['Panavėžio apskritis'], 'Panevėžis'],
+        ['LT-PN', ZUV.data.provinces['Panevėžio apskritis'], 'Panevėžys'],
         ['LT-SA', ZUV.data.provinces['Šiaulių apskritis'], 'Šiauliai'],
         ['LT-TA', ZUV.data.provinces['Šiaulių apskritis'], 'Tauragė'],
         ['LT-TE', ZUV.data.provinces['Telšių apskritis'], 'Telšiai'],
