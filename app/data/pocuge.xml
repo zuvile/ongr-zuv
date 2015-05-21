@@ -1,0 +1,4278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>1725966</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>3.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>1751857</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>6.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>1752110</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>7.00</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>1753644</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Pavieniai medžiai</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>1754375</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>1754648</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>1754735</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>1755215</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>1756906</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>1756907</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>1756942</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>1756979</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>3.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>21.00</aukstis>
+  <diametras>30.0</diametras>
+ </row>
+ <row>
+  <id>1758035</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>1758094</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>13.00</aukstis>
+  <diametras>14.0</diametras>
+ </row>
+ <row>
+  <id>1760527</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>7.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>1816468</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Pašušvio girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2003-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>13.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>1949685</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Ąžuolų Būdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2004-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>1995180</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Leipalingio girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2004-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>2035537</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2004-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2483971</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2007-03-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2483973</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2007-03-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>30.00</aukstis>
+  <diametras>30.0</diametras>
+ </row>
+ <row>
+  <id>2483978</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2007-03-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2483980</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2007-03-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>30.00</aukstis>
+  <diametras>30.0</diametras>
+ </row>
+ <row>
+  <id>3112544</id>
+  <uredija>Telšių miškų urėdija</uredija>
+  <girininkija>Žarėnų girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>4.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>3245780</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2007-07-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>19</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>5.0</diametras>
+ </row>
+ <row>
+  <id>3430884</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2008-03-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>3782950</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2008-07-19 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>3864611</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2008-07-19 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>3983822</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>9999-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>3990874</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>9999-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4099677</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2008-11-21 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>1.45</aukstis>
+  <diametras>1.4</diametras>
+ </row>
+ <row>
+  <id>4133837</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4149436</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Leipalingio girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>2.60</aukstis>
+  <diametras>2.6</diametras>
+ </row>
+ <row>
+  <id>4308973</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4336809</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Pašušvio girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2009-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>41</amzius>
+  <aukstis>15.09</aukstis>
+  <diametras>18.8</diametras>
+ </row>
+ <row>
+  <id>4451248</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>41</amzius>
+  <aukstis>13.98</aukstis>
+  <diametras>14.2</diametras>
+ </row>
+ <row>
+  <id>4451300</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>31</amzius>
+  <aukstis>16.20</aukstis>
+  <diametras>17.7</diametras>
+ </row>
+ <row>
+  <id>4451713</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>31</amzius>
+  <aukstis>7.91</aukstis>
+  <diametras>8.1</diametras>
+ </row>
+ <row>
+  <id>4451978</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>36</amzius>
+  <aukstis>8.68</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>4452037</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4452049</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>3.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>51</amzius>
+  <aukstis>23.12</aukstis>
+  <diametras>33.5</diametras>
+ </row>
+ <row>
+  <id>4452104</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>2.40</aukstis>
+  <diametras>2.4</diametras>
+ </row>
+ <row>
+  <id>4452110</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>2.40</aukstis>
+  <diametras>2.4</diametras>
+ </row>
+ <row>
+  <id>4452399</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Pavieniai medžiai</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>4453183</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>31</amzius>
+  <aukstis>9.10</aukstis>
+  <diametras>12.9</diametras>
+ </row>
+ <row>
+  <id>4454934</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>2.90</aukstis>
+  <diametras>2.9</diametras>
+ </row>
+ <row>
+  <id>4455273</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>31</amzius>
+  <aukstis>7.10</aukstis>
+  <diametras>7.1</diametras>
+ </row>
+ <row>
+  <id>4455362</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4455375</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4470807</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>12</amzius>
+  <aukstis>1.80</aukstis>
+  <diametras>1.8</diametras>
+ </row>
+ <row>
+  <id>4719181</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4781816</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4781818</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>30.39</aukstis>
+  <diametras>30.6</diametras>
+ </row>
+ <row>
+  <id>5218331</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-07-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5218364</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-07-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>7.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>5226375</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-07-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5227339</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-07-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>5253833</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-07-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>14.0</diametras>
+ </row>
+ <row>
+  <id>5253834</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2009-07-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5320724</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5320729</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5320730</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>5320733</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>17.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>5320761</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5320763</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>5320861</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5320869</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5320870</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2009-11-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>30</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5321620</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus miesto miškai</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-12-03 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>5391371</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5393631</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus miesto miškai</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>5.80</aukstis>
+  <diametras>5.8</diametras>
+ </row>
+ <row>
+  <id>5454080</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5454082</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>30.58</aukstis>
+  <diametras>30.9</diametras>
+ </row>
+ <row>
+  <id>5638009</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5638013</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5638014</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>43</amzius>
+  <aukstis>17.05</aukstis>
+  <diametras>25.7</diametras>
+ </row>
+ <row>
+  <id>5638015</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>43</amzius>
+  <aukstis>18.10</aukstis>
+  <diametras>25.7</diametras>
+ </row>
+ <row>
+  <id>5638035</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5638036</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>38</amzius>
+  <aukstis>15.13</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>5642490</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>42</amzius>
+  <aukstis>14.29</aukstis>
+  <diametras>14.6</diametras>
+ </row>
+ <row>
+  <id>5642542</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>32</amzius>
+  <aukstis>16.70</aukstis>
+  <diametras>18.3</diametras>
+ </row>
+ <row>
+  <id>5642955</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>32</amzius>
+  <aukstis>8.21</aukstis>
+  <diametras>8.4</diametras>
+ </row>
+ <row>
+  <id>5643220</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>37</amzius>
+  <aukstis>8.95</aukstis>
+  <diametras>10.3</diametras>
+ </row>
+ <row>
+  <id>5643279</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5643291</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>3.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>52</amzius>
+  <aukstis>23.45</aukstis>
+  <diametras>34.0</diametras>
+ </row>
+ <row>
+  <id>5643346</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>12</amzius>
+  <aukstis>2.80</aukstis>
+  <diametras>2.8</diametras>
+ </row>
+ <row>
+  <id>5643352</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>12</amzius>
+  <aukstis>2.80</aukstis>
+  <diametras>2.8</diametras>
+ </row>
+ <row>
+  <id>5643641</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Pavieniai medžiai</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>5644425</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>32</amzius>
+  <aukstis>9.43</aukstis>
+  <diametras>13.4</diametras>
+ </row>
+ <row>
+  <id>5646176</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>12</amzius>
+  <aukstis>3.30</aukstis>
+  <diametras>3.3</diametras>
+ </row>
+ <row>
+  <id>5646515</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>32</amzius>
+  <aukstis>7.38</aukstis>
+  <diametras>7.4</diametras>
+ </row>
+ <row>
+  <id>5646604</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5646617</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5662054</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>13</amzius>
+  <aukstis>2.15</aukstis>
+  <diametras>2.2</diametras>
+ </row>
+ <row>
+  <id>5691593</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5691601</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>36</amzius>
+  <aukstis>16.43</aukstis>
+  <diametras>16.5</diametras>
+ </row>
+ <row>
+  <id>5692150</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>36</amzius>
+  <aukstis>14.38</aukstis>
+  <diametras>14.4</diametras>
+ </row>
+ <row>
+  <id>5692161</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5713644</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5713645</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>21</amzius>
+  <aukstis>7.47</aukstis>
+  <diametras>6.4</diametras>
+ </row>
+ <row>
+  <id>5953412</id>
+  <uredija>Telšių miškų urėdija</uredija>
+  <girininkija>Žarėnų girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-18 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>13</amzius>
+  <aukstis>5.40</aukstis>
+  <diametras>5.4</diametras>
+ </row>
+ <row>
+  <id>6212351</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-18 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>21</amzius>
+  <aukstis>5.80</aukstis>
+  <diametras>5.8</diametras>
+ </row>
+ <row>
+  <id>6245312</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Pašušvio girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2010-01-29 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>42</amzius>
+  <aukstis>15.42</aukstis>
+  <diametras>19.2</diametras>
+ </row>
+ <row>
+  <id>6384033</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-02-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>6454078</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-03-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>6465638</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Leipalingio girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-05-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>12</amzius>
+  <aukstis>2.90</aukstis>
+  <diametras>2.9</diametras>
+ </row>
+ <row>
+  <id>6785382</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>43</amzius>
+  <aukstis>14.59</aukstis>
+  <diametras>15.0</diametras>
+ </row>
+ <row>
+  <id>6785434</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>33</amzius>
+  <aukstis>17.19</aukstis>
+  <diametras>18.9</diametras>
+ </row>
+ <row>
+  <id>6785847</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>33</amzius>
+  <aukstis>8.51</aukstis>
+  <diametras>8.7</diametras>
+ </row>
+ <row>
+  <id>6786112</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>38</amzius>
+  <aukstis>9.21</aukstis>
+  <diametras>10.6</diametras>
+ </row>
+ <row>
+  <id>6786171</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>6786183</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>3.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>53</amzius>
+  <aukstis>23.77</aukstis>
+  <diametras>34.6</diametras>
+ </row>
+ <row>
+  <id>6786238</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>13</amzius>
+  <aukstis>3.20</aukstis>
+  <diametras>3.2</diametras>
+ </row>
+ <row>
+  <id>6786244</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2011-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>13</amzius>
+  <aukstis>3.20</aukstis>
+  <diametras>3.2</diametras>
+ </row>
+ <row>
+  <id>6829000</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>6844529</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Leipalingio girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-01-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>13</amzius>
+  <aukstis>3.20</aukstis>
+  <diametras>3.2</diametras>
+ </row>
+ <row>
+  <id>7010557</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7038428</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Pašušvio girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2011-02-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>43</amzius>
+  <aukstis>15.74</aukstis>
+  <diametras>19.6</diametras>
+ </row>
+ <row>
+  <id>7218943</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7221203</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus miesto miškai</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>18</amzius>
+  <aukstis>6.31</aukstis>
+  <diametras>6.3</diametras>
+ </row>
+ <row>
+  <id>7281703</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7281705</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>30.76</aukstis>
+  <diametras>31.2</diametras>
+ </row>
+ <row>
+  <id>7480351</id>
+  <uredija>Telšių miškų urėdija</uredija>
+  <girininkija>Žarėnų girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-04 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>6.05</aukstis>
+  <diametras>6.1</diametras>
+ </row>
+ <row>
+  <id>7740847</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-04 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>22</amzius>
+  <aukstis>6.20</aukstis>
+  <diametras>6.2</diametras>
+ </row>
+ <row>
+  <id>7761163</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-01-14 00:00:00.000</nuo>
+  <ardas>Pavieniai medžiai</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>7761947</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>33</amzius>
+  <aukstis>9.76</aukstis>
+  <diametras>13.9</diametras>
+ </row>
+ <row>
+  <id>7763698</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>13</amzius>
+  <aukstis>3.70</aukstis>
+  <diametras>3.7</diametras>
+ </row>
+ <row>
+  <id>7764037</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>33</amzius>
+  <aukstis>7.66</aukstis>
+  <diametras>7.7</diametras>
+ </row>
+ <row>
+  <id>7764126</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7764139</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7779571</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>2.50</aukstis>
+  <diametras>2.5</diametras>
+ </row>
+ <row>
+  <id>7809253</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7809261</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>37</amzius>
+  <aukstis>16.85</aukstis>
+  <diametras>17.0</diametras>
+ </row>
+ <row>
+  <id>7809810</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>37</amzius>
+  <aukstis>14.76</aukstis>
+  <diametras>14.8</diametras>
+ </row>
+ <row>
+  <id>7809821</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2011-02-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7831309</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7831310</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>22</amzius>
+  <aukstis>7.93</aukstis>
+  <diametras>6.8</diametras>
+ </row>
+ <row>
+  <id>8063084</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8063088</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8063089</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>44</amzius>
+  <aukstis>17.39</aukstis>
+  <diametras>26.2</diametras>
+ </row>
+ <row>
+  <id>8063090</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>44</amzius>
+  <aukstis>18.45</aukstis>
+  <diametras>26.2</diametras>
+ </row>
+ <row>
+  <id>8063110</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8063111</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>39</amzius>
+  <aukstis>15.49</aukstis>
+  <diametras>26.6</diametras>
+ </row>
+ <row>
+  <id>8123627</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8139151</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Leipalingio girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>3.50</aukstis>
+  <diametras>3.5</diametras>
+ </row>
+ <row>
+  <id>8305175</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8333275</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Pašušvio girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2012-01-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>44</amzius>
+  <aukstis>16.06</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>8513585</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8515845</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus miesto miškai</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>19</amzius>
+  <aukstis>6.81</aukstis>
+  <diametras>6.8</diametras>
+ </row>
+ <row>
+  <id>8590324</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8590326</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>30.94</aukstis>
+  <diametras>31.5</diametras>
+ </row>
+ <row>
+  <id>8804430</id>
+  <uredija>Telšių miškų urėdija</uredija>
+  <girininkija>Žarėnų girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>6.69</aukstis>
+  <diametras>6.8</diametras>
+ </row>
+ <row>
+  <id>8937931</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>2.85</aukstis>
+  <diametras>2.8</diametras>
+ </row>
+ <row>
+  <id>9053337</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>23</amzius>
+  <aukstis>6.59</aukstis>
+  <diametras>6.6</diametras>
+ </row>
+ <row>
+  <id>9074445</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>44</amzius>
+  <aukstis>14.89</aukstis>
+  <diametras>15.4</diametras>
+ </row>
+ <row>
+  <id>9074497</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>34</amzius>
+  <aukstis>17.68</aukstis>
+  <diametras>19.5</diametras>
+ </row>
+ <row>
+  <id>9074963</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>34</amzius>
+  <aukstis>8.80</aukstis>
+  <diametras>9.0</diametras>
+ </row>
+ <row>
+  <id>9075228</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>39</amzius>
+  <aukstis>9.47</aukstis>
+  <diametras>10.9</diametras>
+ </row>
+ <row>
+  <id>9075287</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9075299</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>3.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>54</amzius>
+  <aukstis>24.09</aukstis>
+  <diametras>35.1</diametras>
+ </row>
+ <row>
+  <id>9075358</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>3.60</aukstis>
+  <diametras>3.6</diametras>
+ </row>
+ <row>
+  <id>9075364</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>3.60</aukstis>
+  <diametras>3.6</diametras>
+ </row>
+ <row>
+  <id>9075658</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Pavieniai medžiai</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>9076442</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>34</amzius>
+  <aukstis>10.08</aukstis>
+  <diametras>14.4</diametras>
+ </row>
+ <row>
+  <id>9078193</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>4.10</aukstis>
+  <diametras>4.1</diametras>
+ </row>
+ <row>
+  <id>9078532</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>34</amzius>
+  <aukstis>7.93</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>9078621</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9078634</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9106244</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9106252</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>38</amzius>
+  <aukstis>17.26</aukstis>
+  <diametras>17.5</diametras>
+ </row>
+ <row>
+  <id>9106801</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>38</amzius>
+  <aukstis>15.13</aukstis>
+  <diametras>15.2</diametras>
+ </row>
+ <row>
+  <id>9106812</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2012-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9128300</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9128301</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-13 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>23</amzius>
+  <aukstis>8.39</aukstis>
+  <diametras>7.2</diametras>
+ </row>
+ <row>
+  <id>9359282</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9359286</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9359287</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>17.72</aukstis>
+  <diametras>26.7</diametras>
+ </row>
+ <row>
+  <id>9359288</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>18.80</aukstis>
+  <diametras>26.7</diametras>
+ </row>
+ <row>
+  <id>9359308</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9359309</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>15.85</aukstis>
+  <diametras>27.2</diametras>
+ </row>
+ <row>
+  <id>9377303</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus miesto miškai</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-09-04 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>19</amzius>
+  <aukstis>6.81</aukstis>
+  <diametras>6.8</diametras>
+ </row>
+ <row>
+  <id>9407167</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-04 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9422692</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Leipalingio girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-04 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>3.80</aukstis>
+  <diametras>3.8</diametras>
+ </row>
+ <row>
+  <id>9588705</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9616810</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Pašušvio girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>16.37</aukstis>
+  <diametras>20.4</diametras>
+ </row>
+ <row>
+  <id>9797193</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9799453</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus miesto miškai</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>20</amzius>
+  <aukstis>7.30</aukstis>
+  <diametras>7.3</diametras>
+ </row>
+ <row>
+  <id>9859967</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9859969</id>
+  <uredija>Nemenčinės miškų urėdija</uredija>
+  <girininkija>Sužionių girininkija</girininkija>
+  <savivaldybe>Vilniaus r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>81</amzius>
+  <aukstis>31.11</aukstis>
+  <diametras>31.8</diametras>
+ </row>
+ <row>
+  <id>10058762</id>
+  <uredija>Telšių miškų urėdija</uredija>
+  <girininkija>Žarėnų girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>16</amzius>
+  <aukstis>7.32</aukstis>
+  <diametras>7.5</diametras>
+ </row>
+ <row>
+  <id>10319529</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>24</amzius>
+  <aukstis>6.98</aukstis>
+  <diametras>7.0</diametras>
+ </row>
+ <row>
+  <id>10340634</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>15.18</aukstis>
+  <diametras>15.8</diametras>
+ </row>
+ <row>
+  <id>10340686</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>18.16</aukstis>
+  <diametras>20.1</diametras>
+ </row>
+ <row>
+  <id>10341151</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>9.09</aukstis>
+  <diametras>9.3</diametras>
+ </row>
+ <row>
+  <id>10341416</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>9.72</aukstis>
+  <diametras>11.2</diametras>
+ </row>
+ <row>
+  <id>10341475</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10341487</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>3.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>24.40</aukstis>
+  <diametras>35.6</diametras>
+ </row>
+ <row>
+  <id>10341546</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>4.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>10341552</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>4.00</aukstis>
+  <diametras>4.0</diametras>
+ </row>
+ <row>
+  <id>10341846</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Pavieniai medžiai</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>10342630</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>10.40</aukstis>
+  <diametras>14.9</diametras>
+ </row>
+ <row>
+  <id>10344381</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>4.50</aukstis>
+  <diametras>4.5</diametras>
+ </row>
+ <row>
+  <id>10344720</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>8.20</aukstis>
+  <diametras>8.3</diametras>
+ </row>
+ <row>
+  <id>10344809</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10344822</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10360263</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>16</amzius>
+  <aukstis>3.20</aukstis>
+  <diametras>3.2</diametras>
+ </row>
+ <row>
+  <id>10389976</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10389984</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>39</amzius>
+  <aukstis>17.66</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>10390533</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>39</amzius>
+  <aukstis>15.49</aukstis>
+  <diametras>15.6</diametras>
+ </row>
+ <row>
+  <id>10390544</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10412074</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10412075</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-14 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>24</amzius>
+  <aukstis>8.84</aukstis>
+  <diametras>7.6</diametras>
+ </row>
+ <row>
+  <id>10641933</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10641937</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10641938</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>46</amzius>
+  <aukstis>18.04</aukstis>
+  <diametras>27.2</diametras>
+ </row>
+ <row>
+  <id>10641939</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>46</amzius>
+  <aukstis>19.14</aukstis>
+  <diametras>27.2</diametras>
+ </row>
+ <row>
+  <id>10641959</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10641960</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>41</amzius>
+  <aukstis>16.20</aukstis>
+  <diametras>27.8</diametras>
+ </row>
+ <row>
+  <id>11058197</id>
+  <uredija>Biržų miškų urėdija</uredija>
+  <girininkija>Joniškėlio girininkija</girininkija>
+  <savivaldybe>Pasvalio r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-05 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11246120</id>
+  <uredija>Panevėžio miškų urėdija</uredija>
+  <girininkija>Panevėžio miesto miškai</girininkija>
+  <savivaldybe>Panevėžio m. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-05 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11274226</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Pašušvio girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2014-04-05 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>46</amzius>
+  <aukstis>16.68</aukstis>
+  <diametras>20.8</diametras>
+ </row>
+ <row>
+  <id>11456157</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11458423</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Alytaus miesto miškai</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>21</amzius>
+  <aukstis>7.78</aukstis>
+  <diametras>7.8</diametras>
+ </row>
+ <row>
+  <id>11503661</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>11.00</aukstis>
+  <diametras>12.0</diametras>
+ </row>
+ <row>
+  <id>11503749</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>11503758</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>34.0</diametras>
+ </row>
+ <row>
+  <id>11504096</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11505098</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>9.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>11505505</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>8.00</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>11505546</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>11505598</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>11505602</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>6.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>11506190</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>15</amzius>
+  <aukstis>6.00</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>11506279</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>12.00</aukstis>
+  <diametras>14.0</diametras>
+ </row>
+ <row>
+  <id>11506589</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11507670</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>11507671</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>11507844</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>8.00</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+ <row>
+  <id>11507958</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>14.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>11512391</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11512636</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>11549261</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>2.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>11551763</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11560781</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>1</amzius>
+  <aukstis>0.50</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11563113</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dzirmiškių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>11588141</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>24</amzius>
+  <aukstis>9.00</aukstis>
+  <diametras>10.0</diametras>
+ </row>
+ <row>
+  <id>11625098</id>
+  <uredija>Kėdainių miškų urėdija</uredija>
+  <girininkija>Labūnavos girininkija</girininkija>
+  <savivaldybe>Kėdainių r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12036468</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12036472</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12036473</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>47</amzius>
+  <aukstis>18.36</aukstis>
+  <diametras>27.7</diametras>
+ </row>
+ <row>
+  <id>12036474</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>47</amzius>
+  <aukstis>19.47</aukstis>
+  <diametras>27.7</diametras>
+ </row>
+ <row>
+  <id>12036494</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12036495</id>
+  <uredija>Šiaulių miesto miškai</uredija>
+  <girininkija>Šiaulių miesto miškai</girininkija>
+  <savivaldybe>Šiaulių m. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>42</amzius>
+  <aukstis>16.55</aukstis>
+  <diametras>28.4</diametras>
+ </row>
+ <row>
+  <id>12060935</id>
+  <uredija>Telšių miškų urėdija</uredija>
+  <girininkija>Žarėnų girininkija</girininkija>
+  <savivaldybe>Telšių r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-25 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>7.94</aukstis>
+  <diametras>8.2</diametras>
+ </row>
+ <row>
+  <id>12322842</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Jonavos girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-26 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>26</amzius>
+  <aukstis>9.89</aukstis>
+  <diametras>11.0</diametras>
+ </row>
+ <row>
+  <id>12401024</id>
+  <uredija>Kėdainių miškų urėdija</uredija>
+  <girininkija>Labūnavos girininkija</girininkija>
+  <savivaldybe>Kėdainių r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12431675</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>3</amzius>
+  <aukstis>0.90</aukstis>
+  <diametras>0.9</diametras>
+ </row>
+ <row>
+  <id>12433772</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dzirmiškių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>42</amzius>
+  <aukstis>19.80</aukstis>
+  <diametras>29.3</diametras>
+ </row>
+ <row>
+  <id>12443939</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>2.40</aukstis>
+  <diametras>2.4</diametras>
+ </row>
+ <row>
+  <id>12444647</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12448772</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>47</amzius>
+  <aukstis>18.65</aukstis>
+  <diametras>20.8</diametras>
+ </row>
+ <row>
+  <id>12449413</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>37</amzius>
+  <aukstis>8.52</aukstis>
+  <diametras>8.6</diametras>
+ </row>
+ <row>
+  <id>12449503</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>42</amzius>
+  <aukstis>14.64</aukstis>
+  <diametras>29.3</diametras>
+ </row>
+ <row>
+  <id>12449506</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>47</amzius>
+  <aukstis>14.54</aukstis>
+  <diametras>29.1</diametras>
+ </row>
+ <row>
+  <id>12449507</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.900000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>47</amzius>
+  <aukstis>14.54</aukstis>
+  <diametras>29.1</diametras>
+ </row>
+ <row>
+  <id>12449733</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>42</amzius>
+  <aukstis>11.54</aukstis>
+  <diametras>12.6</diametras>
+ </row>
+ <row>
+  <id>12449795</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12449806</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>57</amzius>
+  <aukstis>22.56</aukstis>
+  <diametras>26.8</diametras>
+ </row>
+ <row>
+  <id>12449812</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>1.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>57</amzius>
+  <aukstis>25.61</aukstis>
+  <diametras>35.0</diametras>
+ </row>
+ <row>
+  <id>12449858</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>16</amzius>
+  <aukstis>5.80</aukstis>
+  <diametras>5.8</diametras>
+ </row>
+ <row>
+  <id>12449880</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>5.80</aukstis>
+  <diametras>5.8</diametras>
+ </row>
+ <row>
+  <id>12449884</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>7.18</aukstis>
+  <diametras>7.2</diametras>
+ </row>
+ <row>
+  <id>12450220</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.400000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>47</amzius>
+  <aukstis>8.37</aukstis>
+  <diametras>8.4</diametras>
+ </row>
+ <row>
+  <id>12451068</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12451082</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>37</amzius>
+  <aukstis>9.56</aukstis>
+  <diametras>10.7</diametras>
+ </row>
+ <row>
+  <id>12451096</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Kuro girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>2.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12453164</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>7.18</aukstis>
+  <diametras>9.5</diametras>
+ </row>
+ <row>
+  <id>12453533</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Ežerėlio girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>37</amzius>
+  <aukstis>12.68</aukstis>
+  <diametras>14.9</diametras>
+ </row>
+ <row>
+  <id>12470179</id>
+  <uredija>Kazlų Rūdos mokomoji miškų urėdija</uredija>
+  <girininkija>Kazlų Rūdos girininkija</girininkija>
+  <savivaldybe>Kazlų Rūdos sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>17</amzius>
+  <aukstis>3.55</aukstis>
+  <diametras>3.6</diametras>
+ </row>
+ <row>
+  <id>12499928</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12499936</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>18.06</aukstis>
+  <diametras>18.5</diametras>
+ </row>
+ <row>
+  <id>12500485</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>15.85</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>12500496</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Kamajų girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12522048</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>1.100000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12522049</id>
+  <uredija>Rokiškio miškų urėdija</uredija>
+  <girininkija>Rokiškio girininkija</girininkija>
+  <savivaldybe>Rokiškio r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Pocūgė</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>25</amzius>
+  <aukstis>9.28</aukstis>
+  <diametras>8.0</diametras>
+ </row>
+</data>

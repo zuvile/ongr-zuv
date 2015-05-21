@@ -1,0 +1,4518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <row>
+  <id>2153080</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Ž.Naumiesčio girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>2</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2153528</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>2153540</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>5.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>1</amzius>
+  <aukstis>0.30</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2153738</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2154068</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>2154122</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>7.200000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>2154124</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>2154125</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>2154126</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>2154127</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>6.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>2154128</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.200000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>2154139</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2154139</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>19.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>2154178</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2155388</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>2155470</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>21.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>2155606</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>21.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>2155607</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>23.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>2195887</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>2195890</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>2195892</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>3.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>18.0</diametras>
+ </row>
+ <row>
+  <id>2197090</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2201540</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2201544</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>2.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>2201589</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2201832</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>2201832</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>40</amzius>
+  <aukstis>16.00</aukstis>
+  <diametras>16.0</diametras>
+ </row>
+ <row>
+  <id>2201833</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>2201884</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2005-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>2695800</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>125</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2695863</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>90</amzius>
+  <aukstis>21.00</aukstis>
+  <diametras>32.0</diametras>
+ </row>
+ <row>
+  <id>2696762</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2699410</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2701516</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Palangos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>3.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2717249</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>1</amzius>
+  <aukstis>0.20</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>2717596</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Kretingos r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2006-01-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>3674371</id>
+  <uredija>Šiaulių miškų urėdija</uredija>
+  <girininkija>Vainagių girininkija</girininkija>
+  <savivaldybe>Kelmės r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2008-05-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>3689344</id>
+  <uredija>Joniškio miškų urėdija</uredija>
+  <girininkija>Žagarės girininkija</girininkija>
+  <savivaldybe>Joniškio r. sav.</savivaldybe>
+  <plotas>5.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2008-05-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4443931</id>
+  <uredija>Šiaulių miškų urėdija</uredija>
+  <girininkija>Vainagių girininkija</girininkija>
+  <savivaldybe>Kelmės r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2009-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4658510</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>22.68</aukstis>
+  <diametras>27.4</diametras>
+ </row>
+ <row>
+  <id>4658511</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>25.86</aukstis>
+  <diametras>29.6</diametras>
+ </row>
+ <row>
+  <id>4658523</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>5.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.70</aukstis>
+  <diametras>0.7</diametras>
+ </row>
+ <row>
+  <id>4658732</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4659080</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>18.58</aukstis>
+  <diametras>23.2</diametras>
+ </row>
+ <row>
+  <id>4659122</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>89</amzius>
+  <aukstis>21.52</aukstis>
+  <diametras>23.0</diametras>
+ </row>
+ <row>
+  <id>4659138</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>7.200000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>69</amzius>
+  <aukstis>20.80</aukstis>
+  <diametras>23.4</diametras>
+ </row>
+ <row>
+  <id>4659140</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>20.71</aukstis>
+  <diametras>23.3</diametras>
+ </row>
+ <row>
+  <id>4659141</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>19.68</aukstis>
+  <diametras>21.2</diametras>
+ </row>
+ <row>
+  <id>4659142</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>18.65</aukstis>
+  <diametras>21.2</diametras>
+ </row>
+ <row>
+  <id>4659143</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>6.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>20.63</aukstis>
+  <diametras>21.1</diametras>
+ </row>
+ <row>
+  <id>4659144</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.200000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>20.71</aukstis>
+  <diametras>23.3</diametras>
+ </row>
+ <row>
+  <id>4659145</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>21.74</aukstis>
+  <diametras>25.4</diametras>
+ </row>
+ <row>
+  <id>4659156</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4659156</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>19.68</aukstis>
+  <diametras>21.2</diametras>
+ </row>
+ <row>
+  <id>4659199</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>23.71</aukstis>
+  <diametras>25.3</diametras>
+ </row>
+ <row>
+  <id>4659200</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4666543</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Ž.Naumiesčio girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>2.20</aukstis>
+  <diametras>1.2</diametras>
+ </row>
+ <row>
+  <id>4680772</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>64</amzius>
+  <aukstis>22.99</aukstis>
+  <diametras>23.6</diametras>
+ </row>
+ <row>
+  <id>4680772</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>44</amzius>
+  <aukstis>17.32</aukstis>
+  <diametras>17.8</diametras>
+ </row>
+ <row>
+  <id>4680773</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>64</amzius>
+  <aukstis>22.99</aukstis>
+  <diametras>25.7</diametras>
+ </row>
+ <row>
+  <id>4681023</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>54</amzius>
+  <aukstis>21.19</aukstis>
+  <diametras>26.0</diametras>
+ </row>
+ <row>
+  <id>4681024</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4681028</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>2.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>54</amzius>
+  <aukstis>21.19</aukstis>
+  <diametras>21.8</diametras>
+ </row>
+ <row>
+  <id>4681075</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4681329</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>59</amzius>
+  <aukstis>21.04</aukstis>
+  <diametras>21.6</diametras>
+ </row>
+ <row>
+  <id>4681331</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>59</amzius>
+  <aukstis>21.04</aukstis>
+  <diametras>21.6</diametras>
+ </row>
+ <row>
+  <id>4681333</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>3.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>59</amzius>
+  <aukstis>18.94</aukstis>
+  <diametras>19.4</diametras>
+ </row>
+ <row>
+  <id>4682522</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-01-28 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4922202</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Palangos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>3.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2009-03-23 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4928088</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-03-23 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>125</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4928152</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2009-03-23 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>93</amzius>
+  <aukstis>21.35</aukstis>
+  <diametras>33.0</diametras>
+ </row>
+ <row>
+  <id>4928329</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-03-23 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4930477</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2009-03-23 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4930832</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Kretingos r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2009-03-23 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>4931638</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2009-03-23 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>4</amzius>
+  <aukstis>1.10</aukstis>
+  <diametras>0.1</diametras>
+ </row>
+ <row>
+  <id>5330653</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>22.84</aukstis>
+  <diametras>27.7</diametras>
+ </row>
+ <row>
+  <id>5330654</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>26.07</aukstis>
+  <diametras>30.0</diametras>
+ </row>
+ <row>
+  <id>5330666</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>5.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>2.05</aukstis>
+  <diametras>1.0</diametras>
+ </row>
+ <row>
+  <id>5330875</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5331224</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>18.72</aukstis>
+  <diametras>23.5</diametras>
+ </row>
+ <row>
+  <id>5331266</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>90</amzius>
+  <aukstis>21.64</aukstis>
+  <diametras>23.2</diametras>
+ </row>
+ <row>
+  <id>5331282</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>7.200000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>20.99</aukstis>
+  <diametras>23.8</diametras>
+ </row>
+ <row>
+  <id>5331284</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>20.88</aukstis>
+  <diametras>23.6</diametras>
+ </row>
+ <row>
+  <id>5331285</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>19.84</aukstis>
+  <diametras>21.5</diametras>
+ </row>
+ <row>
+  <id>5331286</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>18.81</aukstis>
+  <diametras>21.5</diametras>
+ </row>
+ <row>
+  <id>5331287</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>6.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>20.78</aukstis>
+  <diametras>21.4</diametras>
+ </row>
+ <row>
+  <id>5331288</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.200000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>20.88</aukstis>
+  <diametras>23.6</diametras>
+ </row>
+ <row>
+  <id>5331289</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>21.92</aukstis>
+  <diametras>25.8</diametras>
+ </row>
+ <row>
+  <id>5331300</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5331300</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>19.84</aukstis>
+  <diametras>21.5</diametras>
+ </row>
+ <row>
+  <id>5331343</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>23.88</aukstis>
+  <diametras>25.6</diametras>
+ </row>
+ <row>
+  <id>5331344</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5338687</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Ž.Naumiesčio girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>2.50</aukstis>
+  <diametras>1.5</diametras>
+ </row>
+ <row>
+  <id>5352909</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>23.23</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>5352909</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>45</amzius>
+  <aukstis>17.64</aukstis>
+  <diametras>18.3</diametras>
+ </row>
+ <row>
+  <id>5352910</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>23.23</aukstis>
+  <diametras>26.1</diametras>
+ </row>
+ <row>
+  <id>5353160</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>21.48</aukstis>
+  <diametras>26.5</diametras>
+ </row>
+ <row>
+  <id>5353161</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5353165</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>2.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>21.48</aukstis>
+  <diametras>22.2</diametras>
+ </row>
+ <row>
+  <id>5353212</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5353466</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>21.29</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>5353468</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>21.29</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>5353470</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>3.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>19.17</aukstis>
+  <diametras>19.8</diametras>
+ </row>
+ <row>
+  <id>5354659</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5574374</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Palangos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>3.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5580260</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>125</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5580324</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>94</amzius>
+  <aukstis>21.46</aukstis>
+  <diametras>33.3</diametras>
+ </row>
+ <row>
+  <id>5580501</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5582649</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5583004</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Kretingos r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>5583810</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.40</aukstis>
+  <diametras>0.4</diametras>
+ </row>
+ <row>
+  <id>6007004</id>
+  <uredija>Joniškio miškų urėdija</uredija>
+  <girininkija>Žagarės girininkija</girininkija>
+  <savivaldybe>Joniškio r. sav.</savivaldybe>
+  <plotas>5.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2010-01-18 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>6352535</id>
+  <uredija>Šiaulių miškų urėdija</uredija>
+  <girininkija>Vainagių girininkija</girininkija>
+  <savivaldybe>Kelmės r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2010-01-29 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>6775714</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2010-12-03 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7145533</id>
+  <uredija>Šiaulių miškų urėdija</uredija>
+  <girininkija>Vainagių girininkija</girininkija>
+  <savivaldybe>Kelmės r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2011-02-01 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7158262</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>81</amzius>
+  <aukstis>23.00</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>7158263</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>76</amzius>
+  <aukstis>26.27</aukstis>
+  <diametras>30.4</diametras>
+ </row>
+ <row>
+  <id>7158275</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>5.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>2.40</aukstis>
+  <diametras>1.4</diametras>
+ </row>
+ <row>
+  <id>7158484</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7158833</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>81</amzius>
+  <aukstis>18.86</aukstis>
+  <diametras>23.8</diametras>
+ </row>
+ <row>
+  <id>7158875</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>91</amzius>
+  <aukstis>21.76</aukstis>
+  <diametras>23.4</diametras>
+ </row>
+ <row>
+  <id>7158891</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>7.200000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>71</amzius>
+  <aukstis>21.18</aukstis>
+  <diametras>24.2</diametras>
+ </row>
+ <row>
+  <id>7158893</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>76</amzius>
+  <aukstis>21.05</aukstis>
+  <diametras>23.9</diametras>
+ </row>
+ <row>
+  <id>7158894</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>76</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>21.8</diametras>
+ </row>
+ <row>
+  <id>7158895</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>76</amzius>
+  <aukstis>18.96</aukstis>
+  <diametras>21.8</diametras>
+ </row>
+ <row>
+  <id>7158896</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>6.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>81</amzius>
+  <aukstis>20.93</aukstis>
+  <diametras>21.7</diametras>
+ </row>
+ <row>
+  <id>7158897</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.200000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>76</amzius>
+  <aukstis>21.05</aukstis>
+  <diametras>23.9</diametras>
+ </row>
+ <row>
+  <id>7158898</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>76</amzius>
+  <aukstis>22.09</aukstis>
+  <diametras>26.2</diametras>
+ </row>
+ <row>
+  <id>7158909</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7158909</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>76</amzius>
+  <aukstis>20.00</aukstis>
+  <diametras>21.8</diametras>
+ </row>
+ <row>
+  <id>7158952</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>81</amzius>
+  <aukstis>24.05</aukstis>
+  <diametras>25.9</diametras>
+ </row>
+ <row>
+  <id>7158953</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7166296</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Ž.Naumiesčio girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>2.80</aukstis>
+  <diametras>1.8</diametras>
+ </row>
+ <row>
+  <id>7180512</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>66</amzius>
+  <aukstis>23.46</aukstis>
+  <diametras>24.4</diametras>
+ </row>
+ <row>
+  <id>7180512</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>46</amzius>
+  <aukstis>17.95</aukstis>
+  <diametras>18.8</diametras>
+ </row>
+ <row>
+  <id>7180513</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>66</amzius>
+  <aukstis>23.46</aukstis>
+  <diametras>26.5</diametras>
+ </row>
+ <row>
+  <id>7180763</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>56</amzius>
+  <aukstis>21.76</aukstis>
+  <diametras>27.0</diametras>
+ </row>
+ <row>
+  <id>7180764</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7180768</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>2.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>56</amzius>
+  <aukstis>21.76</aukstis>
+  <diametras>22.6</diametras>
+ </row>
+ <row>
+  <id>7180815</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7181069</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>61</amzius>
+  <aukstis>21.54</aukstis>
+  <diametras>22.4</diametras>
+ </row>
+ <row>
+  <id>7181071</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>61</amzius>
+  <aukstis>21.54</aukstis>
+  <diametras>22.4</diametras>
+ </row>
+ <row>
+  <id>7181073</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>3.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>61</amzius>
+  <aukstis>19.39</aukstis>
+  <diametras>20.2</diametras>
+ </row>
+ <row>
+  <id>7182262</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-02-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7533939</id>
+  <uredija>Joniškio miškų urėdija</uredija>
+  <girininkija>Žagarės girininkija</girininkija>
+  <savivaldybe>Joniškio r. sav.</savivaldybe>
+  <plotas>5.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-04 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>7999462</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Palangos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>3.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8005351</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>125</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8005415</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>95</amzius>
+  <aukstis>21.57</aukstis>
+  <diametras>33.6</diametras>
+ </row>
+ <row>
+  <id>8005592</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8007751</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8008106</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Kretingos r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8008912</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2011-02-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>1.70</aukstis>
+  <diametras>0.7</diametras>
+ </row>
+ <row>
+  <id>8440342</id>
+  <uredija>Šiaulių miškų urėdija</uredija>
+  <girininkija>Vainagių girininkija</girininkija>
+  <savivaldybe>Kelmės r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2012-01-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8452918</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>82</amzius>
+  <aukstis>23.16</aukstis>
+  <diametras>28.3</diametras>
+ </row>
+ <row>
+  <id>8452919</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>26.47</aukstis>
+  <diametras>30.8</diametras>
+ </row>
+ <row>
+  <id>8452931</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>5.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>2.75</aukstis>
+  <diametras>1.8</diametras>
+ </row>
+ <row>
+  <id>8453140</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8453489</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>82</amzius>
+  <aukstis>18.99</aukstis>
+  <diametras>24.1</diametras>
+ </row>
+ <row>
+  <id>8453531</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>92</amzius>
+  <aukstis>21.88</aukstis>
+  <diametras>23.6</diametras>
+ </row>
+ <row>
+  <id>8453547</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>7.200000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>72</amzius>
+  <aukstis>21.37</aukstis>
+  <diametras>24.6</diametras>
+ </row>
+ <row>
+  <id>8453549</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>21.21</aukstis>
+  <diametras>24.2</diametras>
+ </row>
+ <row>
+  <id>8453550</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>20.16</aukstis>
+  <diametras>22.1</diametras>
+ </row>
+ <row>
+  <id>8453551</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>19.11</aukstis>
+  <diametras>22.1</diametras>
+ </row>
+ <row>
+  <id>8453552</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>6.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>82</amzius>
+  <aukstis>21.08</aukstis>
+  <diametras>22.0</diametras>
+ </row>
+ <row>
+  <id>8453553</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.200000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>21.21</aukstis>
+  <diametras>24.2</diametras>
+ </row>
+ <row>
+  <id>8453554</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>22.26</aukstis>
+  <diametras>26.5</diametras>
+ </row>
+ <row>
+  <id>8453565</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8453565</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>77</amzius>
+  <aukstis>20.16</aukstis>
+  <diametras>22.1</diametras>
+ </row>
+ <row>
+  <id>8453608</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>82</amzius>
+  <aukstis>24.21</aukstis>
+  <diametras>26.2</diametras>
+ </row>
+ <row>
+  <id>8453609</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8461197</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Ž.Naumiesčio girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>3.10</aukstis>
+  <diametras>2.1</diametras>
+ </row>
+ <row>
+  <id>8475151</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>67</amzius>
+  <aukstis>23.69</aukstis>
+  <diametras>24.8</diametras>
+ </row>
+ <row>
+  <id>8475151</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>47</amzius>
+  <aukstis>18.26</aukstis>
+  <diametras>19.3</diametras>
+ </row>
+ <row>
+  <id>8475152</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>67</amzius>
+  <aukstis>23.69</aukstis>
+  <diametras>26.9</diametras>
+ </row>
+ <row>
+  <id>8475402</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>57</amzius>
+  <aukstis>22.04</aukstis>
+  <diametras>27.5</diametras>
+ </row>
+ <row>
+  <id>8475403</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8475407</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>2.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>57</amzius>
+  <aukstis>22.04</aukstis>
+  <diametras>23.0</diametras>
+ </row>
+ <row>
+  <id>8475454</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8475708</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>62</amzius>
+  <aukstis>21.78</aukstis>
+  <diametras>22.8</diametras>
+ </row>
+ <row>
+  <id>8475710</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>62</amzius>
+  <aukstis>21.78</aukstis>
+  <diametras>22.8</diametras>
+ </row>
+ <row>
+  <id>8475712</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>3.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>62</amzius>
+  <aukstis>19.61</aukstis>
+  <diametras>20.6</diametras>
+ </row>
+ <row>
+  <id>8476901</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-09 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>8771562</id>
+  <uredija>Joniškio miškų urėdija</uredija>
+  <girininkija>Žagarės girininkija</girininkija>
+  <savivaldybe>Joniškio r. sav.</savivaldybe>
+  <plotas>5.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-11 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9298072</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Palangos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>3.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9304103</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>125</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9304167</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>96</amzius>
+  <aukstis>21.68</aukstis>
+  <diametras>33.9</diametras>
+ </row>
+ <row>
+  <id>9304344</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9306765</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9307120</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Kretingos r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9307926</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2012-01-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>2.00</aukstis>
+  <diametras>1.0</diametras>
+ </row>
+ <row>
+  <id>9377323</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2012-09-07 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>6</amzius>
+  <aukstis>1.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9723917</id>
+  <uredija>Šiaulių miškų urėdija</uredija>
+  <girininkija>Vainagių girininkija</girininkija>
+  <savivaldybe>Kelmės r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9736484</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>83</amzius>
+  <aukstis>23.31</aukstis>
+  <diametras>28.6</diametras>
+ </row>
+ <row>
+  <id>9736485</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>26.67</aukstis>
+  <diametras>31.2</diametras>
+ </row>
+ <row>
+  <id>9736497</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>5.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>3.10</aukstis>
+  <diametras>2.1</diametras>
+ </row>
+ <row>
+  <id>9736706</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9737055</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>83</amzius>
+  <aukstis>19.12</aukstis>
+  <diametras>24.4</diametras>
+ </row>
+ <row>
+  <id>9737097</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>93</amzius>
+  <aukstis>22.00</aukstis>
+  <diametras>23.8</diametras>
+ </row>
+ <row>
+  <id>9737113</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>7.200000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>73</amzius>
+  <aukstis>21.55</aukstis>
+  <diametras>25.0</diametras>
+ </row>
+ <row>
+  <id>9737115</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>21.37</aukstis>
+  <diametras>24.5</diametras>
+ </row>
+ <row>
+  <id>9737116</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>20.31</aukstis>
+  <diametras>22.4</diametras>
+ </row>
+ <row>
+  <id>9737117</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>19.26</aukstis>
+  <diametras>22.4</diametras>
+ </row>
+ <row>
+  <id>9737118</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>6.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>83</amzius>
+  <aukstis>21.22</aukstis>
+  <diametras>22.3</diametras>
+ </row>
+ <row>
+  <id>9737119</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.200000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>21.37</aukstis>
+  <diametras>24.5</diametras>
+ </row>
+ <row>
+  <id>9737120</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>22.43</aukstis>
+  <diametras>26.8</diametras>
+ </row>
+ <row>
+  <id>9737131</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9737131</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>78</amzius>
+  <aukstis>20.31</aukstis>
+  <diametras>22.4</diametras>
+ </row>
+ <row>
+  <id>9737174</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>83</amzius>
+  <aukstis>24.37</aukstis>
+  <diametras>26.5</diametras>
+ </row>
+ <row>
+  <id>9737175</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9744765</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Ž.Naumiesčio girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>10</amzius>
+  <aukstis>3.40</aukstis>
+  <diametras>2.4</diametras>
+ </row>
+ <row>
+  <id>9758719</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>68</amzius>
+  <aukstis>23.92</aukstis>
+  <diametras>25.2</diametras>
+ </row>
+ <row>
+  <id>9758719</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>48</amzius>
+  <aukstis>18.57</aukstis>
+  <diametras>19.8</diametras>
+ </row>
+ <row>
+  <id>9758720</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>68</amzius>
+  <aukstis>23.92</aukstis>
+  <diametras>27.3</diametras>
+ </row>
+ <row>
+  <id>9758970</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>58</amzius>
+  <aukstis>22.31</aukstis>
+  <diametras>28.0</diametras>
+ </row>
+ <row>
+  <id>9758971</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9758975</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>2.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>58</amzius>
+  <aukstis>22.31</aukstis>
+  <diametras>23.4</diametras>
+ </row>
+ <row>
+  <id>9759022</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9759276</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>63</amzius>
+  <aukstis>22.02</aukstis>
+  <diametras>23.2</diametras>
+ </row>
+ <row>
+  <id>9759278</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>63</amzius>
+  <aukstis>22.02</aukstis>
+  <diametras>23.2</diametras>
+ </row>
+ <row>
+  <id>9759280</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>3.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>63</amzius>
+  <aukstis>19.83</aukstis>
+  <diametras>21.0</diametras>
+ </row>
+ <row>
+  <id>9760469</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>9783279</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-06 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>1.35</aukstis>
+  <diametras>0.4</diametras>
+ </row>
+ <row>
+  <id>10112368</id>
+  <uredija>Joniškio miškų urėdija</uredija>
+  <girininkija>Žagarės girininkija</girininkija>
+  <savivaldybe>Joniškio r. sav.</savivaldybe>
+  <plotas>5.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10580718</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Palangos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>3.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10586749</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>125</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10586813</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>97</amzius>
+  <aukstis>21.79</aukstis>
+  <diametras>34.2</diametras>
+ </row>
+ <row>
+  <id>10586990</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10589411</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10589766</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Kretingos r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10590572</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2013-01-15 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>2.30</aukstis>
+  <diametras>1.3</diametras>
+ </row>
+ <row>
+  <id>10689824</id>
+  <uredija>Varėnos miškų urėdija</uredija>
+  <girininkija>Rudnios girininkija</girininkija>
+  <savivaldybe>Varėnos r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-06-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>10811444</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Veisiejų girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>2.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2013-06-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>5</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>10811753</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Krosnos girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-06-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>4.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>3.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>10815277</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Krosnos girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2013-06-10 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>2.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>11068476</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Veisiejų girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>2.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-05 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>0.5</diametras>
+ </row>
+ <row>
+  <id>11096093</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Krosnos girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>1.500000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2014-04-05 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>4.0</sudeties_koeficientas>
+  <amzius>10</amzius>
+  <aukstis>4.05</aukstis>
+  <diametras>3.0</diametras>
+ </row>
+ <row>
+  <id>11096158</id>
+  <uredija>Veisiejų miškų urėdija</uredija>
+  <girininkija>Krosnos girininkija</girininkija>
+  <savivaldybe>Lazdijų r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2014-04-05 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>10</amzius>
+  <aukstis>3.05</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>11382707</id>
+  <uredija>Šiaulių miškų urėdija</uredija>
+  <girininkija>Vainagių girininkija</girininkija>
+  <savivaldybe>Kelmės r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-04-05 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11395281</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>84</amzius>
+  <aukstis>23.46</aukstis>
+  <diametras>28.9</diametras>
+ </row>
+ <row>
+  <id>11395282</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>26.86</aukstis>
+  <diametras>31.6</diametras>
+ </row>
+ <row>
+  <id>11395294</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>5.000000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>10</amzius>
+  <aukstis>3.45</aukstis>
+  <diametras>2.4</diametras>
+ </row>
+ <row>
+  <id>11395503</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>60</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11395852</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>7.0</sudeties_koeficientas>
+  <amzius>84</amzius>
+  <aukstis>19.25</aukstis>
+  <diametras>24.7</diametras>
+ </row>
+ <row>
+  <id>11395894</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>94</amzius>
+  <aukstis>22.12</aukstis>
+  <diametras>24.0</diametras>
+ </row>
+ <row>
+  <id>11395910</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>7.200000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>74</amzius>
+  <aukstis>21.73</aukstis>
+  <diametras>25.4</diametras>
+ </row>
+ <row>
+  <id>11395912</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.000000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>21.53</aukstis>
+  <diametras>24.8</diametras>
+ </row>
+ <row>
+  <id>11395913</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>4.200000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>20.46</aukstis>
+  <diametras>22.7</diametras>
+ </row>
+ <row>
+  <id>11395914</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.20</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>19.41</aukstis>
+  <diametras>22.7</diametras>
+ </row>
+ <row>
+  <id>11395915</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>6.300000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>84</amzius>
+  <aukstis>21.36</aukstis>
+  <diametras>22.6</diametras>
+ </row>
+ <row>
+  <id>11395916</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.200000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>21.53</aukstis>
+  <diametras>24.8</diametras>
+ </row>
+ <row>
+  <id>11395917</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>22.60</aukstis>
+  <diametras>27.1</diametras>
+ </row>
+ <row>
+  <id>11395928</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11395928</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>1.700000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>79</amzius>
+  <aukstis>20.46</aukstis>
+  <diametras>22.7</diametras>
+ </row>
+ <row>
+  <id>11395971</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.400000</plotas>
+  <skalsumas>0.40</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>84</amzius>
+  <aukstis>24.53</aukstis>
+  <diametras>26.8</diametras>
+ </row>
+ <row>
+  <id>11395972</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Norkaičių girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>3.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11403561</id>
+  <uredija>Šilutės miškų urėdija</uredija>
+  <girininkija>Ž.Naumiesčio girininkija</girininkija>
+  <savivaldybe>Šilutės r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>3.70</aukstis>
+  <diametras>2.7</diametras>
+ </row>
+ <row>
+  <id>11417518</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>69</amzius>
+  <aukstis>24.14</aukstis>
+  <diametras>25.6</diametras>
+ </row>
+ <row>
+  <id>11417518</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>49</amzius>
+  <aukstis>18.87</aukstis>
+  <diametras>20.2</diametras>
+ </row>
+ <row>
+  <id>11417519</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>69</amzius>
+  <aukstis>24.14</aukstis>
+  <diametras>27.7</diametras>
+ </row>
+ <row>
+  <id>11417769</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>59</amzius>
+  <aukstis>22.58</aukstis>
+  <diametras>28.5</diametras>
+ </row>
+ <row>
+  <id>11417770</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11417774</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>2.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>59</amzius>
+  <aukstis>22.58</aukstis>
+  <diametras>23.8</diametras>
+ </row>
+ <row>
+  <id>11417821</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Jūravos girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11418075</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>1.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>64</amzius>
+  <aukstis>22.25</aukstis>
+  <diametras>23.6</diametras>
+ </row>
+ <row>
+  <id>11418077</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>9.0</sudeties_koeficientas>
+  <amzius>64</amzius>
+  <aukstis>22.25</aukstis>
+  <diametras>23.6</diametras>
+ </row>
+ <row>
+  <id>11418079</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>3.800000</plotas>
+  <skalsumas>0.30</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 2 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>5.0</sudeties_koeficientas>
+  <amzius>64</amzius>
+  <aukstis>20.04</aukstis>
+  <diametras>21.4</diametras>
+ </row>
+ <row>
+  <id>11419268</id>
+  <uredija>Jurbarko miškų urėdija</uredija>
+  <girininkija>Viešvilės girininkija</girininkija>
+  <savivaldybe>Jurbarko r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>80</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11442141</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>1.70</aukstis>
+  <diametras>0.7</diametras>
+ </row>
+ <row>
+  <id>11442141</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>1.70</aukstis>
+  <diametras>0.7</diametras>
+ </row>
+ <row>
+  <id>11442141</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-04-08 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>1.70</aukstis>
+  <diametras>0.7</diametras>
+ </row>
+ <row>
+  <id>11503759</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>55</amzius>
+  <aukstis>25.00</aukstis>
+  <diametras>34.0</diametras>
+ </row>
+ <row>
+  <id>11512689</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-12 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>35</amzius>
+  <aukstis>18.00</aukstis>
+  <diametras>20.0</diametras>
+ </row>
+ <row>
+  <id>11522300</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Aukštelkų girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11522356</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Aukštelkų girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11527821</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Aukštelkų girininkija</girininkija>
+  <savivaldybe>Pakruojo r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11549256</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>12</amzius>
+  <aukstis>5.00</aukstis>
+  <diametras>6.0</diametras>
+ </row>
+ <row>
+  <id>11550021</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dzirmiškių girininkija</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11571109</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>1.50</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>11596584</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Dumsių girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>5.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11616527</id>
+  <uredija>Kėdainių miškų urėdija</uredija>
+  <girininkija>Ąžuoloto girininkija</girininkija>
+  <savivaldybe>Kėdainių r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>2.00</aukstis>
+  <diametras>2.0</diametras>
+ </row>
+ <row>
+  <id>11625098</id>
+  <uredija>Kėdainių miškų urėdija</uredija>
+  <girininkija>Labūnavos girininkija</girininkija>
+  <savivaldybe>Kėdainių r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-06-16 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11971263</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Palangos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>3.900000</plotas>
+  <skalsumas>0.50</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>120</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11977294</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.500000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>125</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11977358</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.200000</plotas>
+  <skalsumas>0.90</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>98</amzius>
+  <aukstis>21.89</aukstis>
+  <diametras>34.5</diametras>
+ </row>
+ <row>
+  <id>11977535</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos m. sav.</savivaldybe>
+  <plotas>0.300000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>70</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11979956</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Klaipėdos girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>2.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>85</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11980311</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Kretingos r. sav.</savivaldybe>
+  <plotas>0.900000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>8</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>11981117</id>
+  <uredija>Kretingos miškų urėdija</uredija>
+  <girininkija>Mikoliškių girininkija</girininkija>
+  <savivaldybe>Klaipėdos r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-24 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>2.60</aukstis>
+  <diametras>1.6</diametras>
+ </row>
+ <row>
+  <id>12114628</id>
+  <uredija>Joniškio miškų urėdija</uredija>
+  <girininkija>Žagarės girininkija</girininkija>
+  <savivaldybe>Joniškio r. sav.</savivaldybe>
+  <plotas>5.900000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-25 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>75</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12336474</id>
+  <uredija>Jonavos miškų urėdija</uredija>
+  <girininkija>Dumsių girininkija</girininkija>
+  <savivaldybe>Jonavos r. sav.</savivaldybe>
+  <plotas>5.600000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-26 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>7</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12391433</id>
+  <uredija>Kėdainių miškų urėdija</uredija>
+  <girininkija>Ąžuoloto girininkija</girininkija>
+  <savivaldybe>Kėdainių r. sav.</savivaldybe>
+  <plotas>0.200000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>10.0</sudeties_koeficientas>
+  <amzius>11</amzius>
+  <aukstis>2.60</aukstis>
+  <diametras>1.6</diametras>
+ </row>
+ <row>
+  <id>12401024</id>
+  <uredija>Kėdainių miškų urėdija</uredija>
+  <girininkija>Labūnavos girininkija</girininkija>
+  <savivaldybe>Kėdainių r. sav.</savivaldybe>
+  <plotas>0.700000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12403534</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Aukštelkų girininkija</girininkija>
+  <savivaldybe>Pakruojo r. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12404627</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Aukštelkų girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.000000</plotas>
+  <skalsumas>0.60</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12405062</id>
+  <uredija>Radviliškio miškų urėdija</uredija>
+  <girininkija>Aukštelkų girininkija</girininkija>
+  <savivaldybe>Radviliškio r. sav.</savivaldybe>
+  <plotas>1.400000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12427073</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dušnionių girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.300000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>2.0</sudeties_koeficientas>
+  <amzius>9</amzius>
+  <aukstis>2.20</aukstis>
+  <diametras>1.2</diametras>
+ </row>
+ <row>
+  <id>12432678</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Dzirmiškių girininkija</girininkija>
+  <savivaldybe>Alytaus m. sav.</savivaldybe>
+  <plotas>4.700000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>65</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+ <row>
+  <id>12444408</id>
+  <uredija>Alytaus miškų urėdija</uredija>
+  <girininkija>Sudvajų girininkija</girininkija>
+  <savivaldybe>Alytaus r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>1.00</skalsumas>
+  <nuo>2014-07-30 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>1.0</sudeties_koeficientas>
+  <amzius>14</amzius>
+  <aukstis>5.70</aukstis>
+  <diametras>4.7</diametras>
+ </row>
+ <row>
+  <id>12448825</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Šilėnų girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.800000</plotas>
+  <skalsumas>0.80</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>8.0</sudeties_koeficientas>
+  <amzius>37</amzius>
+  <aukstis>18.88</aukstis>
+  <diametras>21.3</diametras>
+ </row>
+ <row>
+  <id>12449813</id>
+  <uredija>Dubravos eksperimentinė mokomoji miškų urėdija</uredija>
+  <girininkija>Vaišvydavos girininkija</girininkija>
+  <savivaldybe>Kauno r. sav.</savivaldybe>
+  <plotas>0.600000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-07-31 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>3.0</sudeties_koeficientas>
+  <amzius>57</amzius>
+  <aukstis>25.64</aukstis>
+  <diametras>35.3</diametras>
+ </row>
+ <row>
+  <id>12604312</id>
+  <uredija>Varėnos miškų urėdija</uredija>
+  <girininkija>Rudnios girininkija</girininkija>
+  <savivaldybe>Varėnos r. sav.</savivaldybe>
+  <plotas>1.200000</plotas>
+  <skalsumas>0.70</skalsumas>
+  <nuo>2014-08-02 00:00:00.000</nuo>
+  <ardas>Medyno 1 ardas</ardas>
+  <medzio_rusis>Bukas</medzio_rusis>
+  <sudeties_koeficientas>0.0</sudeties_koeficientas>
+  <amzius>50</amzius>
+  <aukstis>0.00</aukstis>
+  <diametras>0.0</diametras>
+ </row>
+</data>
