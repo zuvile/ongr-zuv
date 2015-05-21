@@ -23,7 +23,6 @@ function drawMap() {
         ['LT-TE', ZUV.data.provinces['Telšių apskritis'], 'Telšiai'],
         ['LT-UT', ZUV.data.provinces['Utenos apskritis'], 'Utena'],
         ['LT-VL', ZUV.data.provinces['Vilniaus apskritis'], 'Vilnius']
-        // TODO likusios 6
     ];
     var data = google.visualization.arrayToDataTable(table);
 

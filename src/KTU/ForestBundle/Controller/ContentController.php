@@ -41,7 +41,7 @@ class ContentController extends Controller
             'KTUForestBundle::provinces.html.twig',
             [
                 'provinceRatiosJSON' => json_encode($provinceRatios),
-                'provincesInfo' => $provincesInfo
+                'provincesInfo' => $provincesInfo,
             ]
         );
     }
