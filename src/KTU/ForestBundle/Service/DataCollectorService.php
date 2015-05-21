@@ -14,6 +14,7 @@ use ONGR\ElasticsearchBundle\DSL\Query\WildcardQuery;
 use ONGR\ElasticsearchBundle\ORM\Manager;
 use ONGR\ElasticsearchBundle\Result\Aggregation\AggregationIterator;
 use ONGR\ElasticsearchBundle\Result\Aggregation\ValueAggregation;
+use ONGR\ElasticsearchBundle\Result\DocumentIterator;
 
 class DataCollectorService
 {
@@ -132,6 +133,7 @@ class DataCollectorService
 
     public function collectProvinceData($province)
     {
+        $this->collectLotCount($province);
         $manager = $this->manager;
         $repository = $manager->getRepository('KTUForestBundle:Lot');
         $search = $repository->createSearch();
@@ -164,7 +166,8 @@ class DataCollectorService
         $code = $this->provinceCodes[$province];
 
         return ['code' => $code, 'teritory' => $territory, 'forestries' => $forestry,
-            'departments' => $department, 'average_lushness' => $lushness, 'province' => $province];
+            'departments' => $department, 'average_lushness' => $lushness, 'province' => $province,
+        'layerCount' => $this->getLayerCount($province), 'lotCount' => $this->collectLotCount($province)];
     }
 
     public function getProvincesRatios($treeType)
@@ -259,7 +262,7 @@ class DataCollectorService
             $territory = $aggregation->getValue()['sum'];
         }
 
-        return $territory;
+        return round($territory, 2);
     }
 
     private function loadLushnessData($province)
@@ -295,7 +298,19 @@ class DataCollectorService
         }
 
         return $provincesInfo;
+    }
 
+    public function collectLotCount($province)
+    {
+        $manager = $this->manager;
+        $repository = $manager->getRepository('KTUForestBundle:Lot');
+        $search = $repository->createSearch();
+
+        $query = new TermQuery('province', $province);
+        $search->addQuery($query);
+        /** @var DocumentIterator $documents */
+        $documents = $repository->execute($search);
+        return $documents->getTotalCount();
     }
 
 }

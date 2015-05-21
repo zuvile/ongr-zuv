@@ -1,7 +1,7 @@
 {% for provinceInfo in provincesInfo %}
        <div id="province_info_{{ provinceInfo.code }}" style="display:none">
            {{ provinceInfo.province }}
-           Apskritis turi TODO sklypus, kurie užima {{ provinceInfo.teritory }} hektarų plotą.
+           turi <b>{{ provinceInfo.lotCount }}</b> sklypus su <b>{{ provinceInfo.layerCount }}</b> ardais, kurie užima <b>{{ provinceInfo.teritory }} </b>hektarų plotą.
            <br>
            <b>Medyno skalsumas</b> – tai esamo normalaus medynų tūrių (arba skerspločių sumų) santykis.<br>
            Vidutinis skalsumas sklypuose: <b>{{ provinceInfo.average_lushness }}</b>
