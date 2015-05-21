@@ -164,7 +164,7 @@ class DataCollectorService
         $code = $this->provinceCodes[$province];
 
         return ['code' => $code, 'teritory' => $territory, 'forestries' => $forestry,
-            'departments' => $department, 'average_lushness' => $lushness];
+            'departments' => $department, 'average_lushness' => $lushness, 'province' => $province];
     }
 
     public function getProvincesRatios($treeType)
