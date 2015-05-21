@@ -29,8 +29,6 @@
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Pušis kalninė">Pušis kalninė</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Pušis juodoji">Pušis juodoji</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Pocūgė">Pocūgė</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#Kiti spygliuočiai">Kiti spygliuočiai</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#Kiti kietieji lapuočiai">Kiti kietieji lapuočiai</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Ąžuolas">Ąžuolas</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Ąžuolas raudonasis">Ąžuolas raudonasis</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Uosis">Uosis</a></li>
@@ -46,7 +44,6 @@
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Tuopa">Tuopa</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Liepa">Liepa</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Blindė">Blindė</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#Kiti minkštieji lapuočiai">Kiti minkštieji lapuočiai</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Kedras">Kedras</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Vinkšna">Vinkšna</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="#Bukas">Bukas</a></li>
@@ -77,10 +74,14 @@
             </div>
         </div>
         <div class="container">
-            <div class='jumbotron'>
-                <h3>Informacija apie apskritį</h3>
+        <div class="panel panel-default">
+            <div class="panel-heading">Informacija apie apskritį</div>
+            <div class="panel-body">
+                <h3></h3>
                 {% include 'KTUForestBundle::region.html.twig' %}
+                <div id="treeInfo"></div>
             </div>
+        </div>
         </div>
     </div>
 {% endblock %}
